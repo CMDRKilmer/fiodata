@@ -16,6 +16,7 @@ class FioDataFetcher {
       endTime: null,
       totalFetched: 0,
       totalSaved: 0,
+      totalSkipped: 0,
       totalFailed: 0,
       datasets: {}
     };
@@ -52,6 +53,21 @@ class FioDataFetcher {
 
       const result = this.storage.saveDataset(name, rawData, format);
 
+      if (result.skipped) {
+        this.stats.datasets[name] = {
+          status: 'skipped',
+          timestamp: new Date().toISOString(),
+          recordCount: validation.recordCount || 0,
+          size: 0
+        };
+        this.stats.totalFetched++;
+        this.stats.totalSkipped++;
+
+        logger.info(`Dataset unchanged, skipped: ${name}`);
+
+        return { name, status: 'skipped', validation };
+      }
+
       this.stats.datasets[name] = {
         status: 'success',
         timestamp: new Date().toISOString(),
@@ -87,13 +103,15 @@ class FioDataFetcher {
   async fetchAllPublicData() {
     logger.info('Starting public data fetch cycle');
 
-    const results = { success: [], failed: [] };
+    const results = { success: [], failed: [], skipped: [] };
 
     for (const endpoint of PUBLIC_ENDPOINTS) {
       const result = await this.fetchAndStore(endpoint);
 
       if (result.status === 'saved') {
         results.success.push(result.name);
+      } else if (result.status === 'skipped') {
+        results.skipped.push(result.name);
       } else {
         results.failed.push({ name: result.name, error: result.error });
       }
@@ -101,6 +119,7 @@ class FioDataFetcher {
 
     logger.info('Public data fetch cycle completed', {
       success: results.success.length,
+      skipped: results.skipped.length,
       failed: results.failed.length
     });
 
@@ -110,13 +129,15 @@ class FioDataFetcher {
   async fetchAllCsvData() {
     logger.info('Starting CSV data fetch cycle');
 
-    const results = { success: [], failed: [] };
+    const results = { success: [], failed: [], skipped: [] };
 
     for (const endpoint of CSV_ENDPOINTS) {
       const result = await this.fetchAndStore(endpoint);
 
       if (result.status === 'saved') {
         results.success.push(result.name);
+      } else if (result.status === 'skipped') {
+        results.skipped.push(result.name);
       } else {
         results.failed.push({ name: result.name, error: result.error });
       }
@@ -124,6 +145,7 @@ class FioDataFetcher {
 
     logger.info('CSV data fetch cycle completed', {
       success: results.success.length,
+      skipped: results.skipped.length,
       failed: results.failed.length
     });
 
@@ -175,8 +197,19 @@ if (require.main === module) {
       console.log('\n=== Fetch Summary ===');
       console.log(`Total fetched: ${stats.totalFetched}`);
       console.log(`Total saved: ${stats.totalSaved}`);
+      console.log(`Total skipped: ${stats.totalSkipped || 0}`);
       console.log(`Total failed: ${stats.totalFailed}`);
       console.log(`Duration: ${stats.duration}ms`);
+
+      if (stats.publicEndpoints.skipped.length > 0) {
+        console.log('\nSkipped public endpoints (unchanged):');
+        stats.publicEndpoints.skipped.forEach(s => console.log(`  - ${s}`));
+      }
+
+      if (stats.csvEndpoints.skipped.length > 0) {
+        console.log('\nSkipped CSV endpoints (unchanged):');
+        stats.csvEndpoints.skipped.forEach(s => console.log(`  - ${s}`));
+      }
 
       if (stats.publicEndpoints.failed.length > 0) {
         console.log('\nFailed public endpoints:');

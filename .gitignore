@@ -4,3 +4,4 @@ coverage/
 logs/
 *.log
 .DS_Store
+data/.hashes/

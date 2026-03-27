@@ -1,7 +1,12 @@
 const fs = require('fs');
 const path = require('path');
+const crypto = require('crypto');
 const { getDataDir, ensureDirectoryExists } = require('./logger');
 const logger = require('./logger');
+
+function computeHash(content) {
+  return crypto.createHash('md5').update(content, 'utf8').digest('hex');
+}
 
 class DataStorage {
   constructor(dataDir = null) {
@@ -10,11 +15,30 @@ class DataStorage {
     } else {
       this.dataDir = getDataDir();
     }
+    this.hashDir = path.join(this.dataDir, '.hashes');
     ensureDirectoryExists(this.dataDir);
+    ensureDirectoryExists(this.hashDir);
     logger.info(`Storage initialized: ${this.dataDir}`);
   }
 
-  saveDataset(name, data, format = 'json') {
+  getHashPath(name, format) {
+    return path.join(this.hashDir, `${name}.${format}.md5`);
+  }
+
+  getStoredHash(name, format) {
+    const hashPath = this.getHashPath(name, format);
+    if (!fs.existsSync(hashPath)) {
+      return null;
+    }
+    return fs.readFileSync(hashPath, 'utf8').trim();
+  }
+
+  saveHash(name, format, hash) {
+    const hashPath = this.getHashPath(name, format);
+    fs.writeFileSync(hashPath, hash);
+  }
+
+  saveDataset(name, data, format = 'json', skipIfUnchanged = true) {
     let fileName = name;
     if (name.endsWith(`.${format}`)) {
       fileName = name;
@@ -25,17 +49,28 @@ class DataStorage {
     const tempPath = path.join(this.dataDir, `${name}.${format}.tmp`);
 
     try {
+      const content = format === 'json' ? JSON.stringify(data, null, 2) : data;
+      const newHash = computeHash(content);
+
+      if (skipIfUnchanged) {
+        const existingHash = this.getStoredHash(name, format);
+        if (existingHash === newHash) {
+          logger.info(`Dataset unchanged, skipping: ${name}`);
+          return { success: true, skipped: true, filePath, hash: newHash };
+        }
+      }
+
       logger.info(`Saving dataset: ${name}`, { format, filePath });
 
-      const content = format === 'json' ? JSON.stringify(data, null, 2) : data;
       fs.writeFileSync(tempPath, content);
       fs.renameSync(tempPath, filePath);
+      this.saveHash(name, format, newHash);
 
       const recordCount = format === 'json' ? (Array.isArray(data) ? data.length : 1) : 0;
 
       logger.info(`Dataset saved: ${name}`, { size: content.length, recordCount });
 
-      return { success: true, filePath, size: content.length, recordCount };
+      return { success: true, skipped: false, filePath, size: content.length, recordCount, hash: newHash };
     } catch (error) {
       if (fs.existsSync(tempPath)) {
         fs.unlinkSync(tempPath);
