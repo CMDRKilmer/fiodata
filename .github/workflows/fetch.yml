@@ -11,7 +11,7 @@ on:
         default: 'false'
 
 env:
-  NODE_VERSION: '20'
+  NODE_VERSION: '24'
   LOG_LEVEL: info
   GITHUB_ACTIONS: 'true'
 
