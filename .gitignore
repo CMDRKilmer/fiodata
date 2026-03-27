@@ -2,8 +2,5 @@ node_modules/
 coverage/
 .env
 logs/
-data/*.json
-data/*.csv
-!data/.gitkeep
 *.log
 .DS_Store
