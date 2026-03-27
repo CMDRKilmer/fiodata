@@ -1,0 +1,88 @@
+name: FIO Data Fetch
+
+on:
+  schedule:
+    - cron: '*/5 * * * *'
+  workflow_dispatch:
+    inputs:
+      force_refresh:
+        description: 'Force refresh all data'
+        required: false
+        default: 'false'
+
+env:
+  NODE_VERSION: '20'
+  LOG_LEVEL: info
+  GITHUB_ACTIONS: 'true'
+
+jobs:
+  fetch-data:
+    name: Fetch FIO Data
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: ${{ env.NODE_VERSION }}
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Run data fetch
+        run: node src/index.js
+        env:
+          LOG_LEVEL: ${{ env.LOG_LEVEL }}
+          GITHUB_ACTIONS: ${{ env.GITHUB_ACTIONS }}
+          DATA_DIR: ./data
+          LOG_DIR: ./logs
+
+      - name: Check for changes
+        id: changes
+        run: |
+          if [ -n "$(git status --porcelain)" ]; then
+            echo "changes=true" >> $GITHUB_OUTPUT
+            echo "changed_files=$(git status --porcelain)" >> $GITHUB_OUTPUT
+          else
+            echo "changes=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Commit and push changes
+        if: steps.changes.outputs.changes == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add -A
+          git commit -m "Update FIO data - $(date -u '+%Y-%m-%d %H:%M:%S')" || exit 0
+          git push || exit 0
+
+      - name: Upload logs
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: fio-fetch-logs
+          path: logs/
+          retention-days: 7
+          compression-level: 9
+
+      - name: Run tests
+        run: npm test
+
+  notify-failure:
+    name: Notify on Failure
+    needs: [fetch-data]
+    if: failure()
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Send failure notification
+        run: |
+          echo "FIO Data Fetch workflow failed"
+          echo "Run ID: ${{ github.run_id }}"
+          echo "Run URL: ${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"

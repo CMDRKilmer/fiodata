@@ -1,0 +1,32 @@
+{
+  "name": "fiodata",
+  "version": "1.0.0",
+  "description": "FIO REST API data fetcher with GitHub Actions automation",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js",
+    "test": "jest --coverage",
+    "test:watch": "jest --watch",
+    "lint": "eslint src/**/*.js"
+  },
+  "keywords": [
+    "fio",
+    "api",
+    "data-fetching",
+    "github-actions"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "axios": "^1.6.7",
+    "dotenv": "^16.4.5",
+    "winston": "^3.11.0"
+  },
+  "devDependencies": {
+    "eslint": "^8.57.0",
+    "jest": "^29.7.0"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
