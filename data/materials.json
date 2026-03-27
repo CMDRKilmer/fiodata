@@ -1,82 +1,5 @@
 [
   {
-    "MaterialId": "ef1a8b643e865195823ec884b3343c6a",
-    "CategoryName": "electronic parts",
-    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
-    "Name": "microProcessor",
-    "Ticker": "MPC",
-    "Weight": 0.0010000000474974513,
-    "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "9da5f471dfc7759a11858456e74fbc8f",
-    "CategoryName": "electronic parts",
-    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
-    "Name": "printedCircuitBoard",
-    "Ticker": "PCB",
-    "Weight": 0.05000000074505806,
-    "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "206aa44d627bd8e886a20c565b4bd058",
-    "CategoryName": "electronic parts",
-    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
-    "Name": "memoryBank",
-    "Ticker": "RAM",
-    "Weight": 0.0010000000474974513,
-    "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "23b9ee06710318a6d3e9eec4d0b58cb7",
-    "CategoryName": "electronic parts",
-    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
-    "Name": "nonVolatileMemory",
-    "Ticker": "ROM",
-    "Weight": 0.0010000000474974513,
-    "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "cbb28f4ebfa4e7b26f09d5b585608e3d",
-    "CategoryName": "electronic parts",
-    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
-    "Name": "sensor",
-    "Ticker": "SEN",
-    "Weight": 0.0010000000474974513,
-    "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "2689b2d4859b0cb73e7efa9466301297",
-    "CategoryName": "construction materials",
-    "CategoryId": "156bbcce730fba6169338d560f05fd26",
-    "Name": "nanoFiber",
-    "Ticker": "NFI",
-    "Weight": 0.03200000151991844,
-    "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "815b7171c7647a71758ff3a13bd303a9",
-    "CategoryName": "ship shields",
-    "CategoryId": "a8e32e7e16219394989aea62fc0cd943",
-    "Name": "advancedHeatShield",
-    "Ticker": "APT",
-    "Weight": 0.029999999329447746,
-    "Volume": 0.30000001192092896,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
     "MaterialId": "9842ad8d9dfdf8e4c2e80117e7b5ebaf",
     "CategoryName": "consumables (luxury)",
     "CategoryId": "8a0bd8b6a329c3d632da9da63c818b3d",
@@ -84,8 +7,8 @@
     "Ticker": "COF",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c855d1fe267c1f5fca20459db2bcd1b0",
@@ -95,8 +18,8 @@
     "Ticker": "RAG",
     "Weight": 5,
     "Volume": 3.4000000953674316,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "184e8b2fa39edeeb942a838c7502bcc1",
@@ -106,8 +29,8 @@
     "Ticker": "RGO",
     "Weight": 19.31999969482422,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "21da4b6b92096523c67d016f97e7cc09",
@@ -117,8 +40,8 @@
     "Ticker": "WAL",
     "Weight": 6.25,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1eaaffac98a9a50276e29cf675f43ec9",
@@ -128,8 +51,8 @@
     "Ticker": "CBU",
     "Weight": 54,
     "Volume": 47,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0d47794b3f8331f4b945a0dcd56d7d41",
@@ -139,8 +62,8 @@
     "Ticker": "PBU",
     "Weight": 13,
     "Volume": 8,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d4068898d1dbd1eab014050453eb4cef",
@@ -150,8 +73,8 @@
     "Ticker": "SBU",
     "Weight": 20,
     "Volume": 13,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ea76195ce185b40e800502a66194d5a0",
@@ -161,8 +84,8 @@
     "Ticker": "TBU",
     "Weight": 24,
     "Volume": 16,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f99a1c9a730d92fd78b7dc7c2d710060",
@@ -172,8 +95,8 @@
     "Ticker": "ADR",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0995a123c2c2e60c9b0d4f120abac7bb",
@@ -183,63 +106,85 @@
     "Ticker": "MB",
     "Weight": 0.07500000298023224,
     "Volume": 0.07500000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "cbf2cde8669ec88def5eff94f58b60bb",
-    "CategoryName": "infrastructure",
-    "CategoryId": "5aac3f26a7e93c5999cfa593dcddd4e1",
-    "Name": "singularityStabilizer",
-    "Ticker": "SST",
-    "Weight": 1500,
-    "Volume": 500,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "1ca3caf43fd0fea8a67522ae6ebf1af0",
-    "CategoryName": "infrastructure",
-    "CategoryId": "5aac3f26a7e93c5999cfa593dcddd4e1",
-    "Name": "torusSegment",
-    "Ticker": "TOR",
-    "Weight": 700,
-    "Volume": 200,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "3a65b32e1c0af942aa911ef541008b1e",
-    "CategoryName": "infrastructure",
-    "CategoryId": "5aac3f26a7e93c5999cfa593dcddd4e1",
-    "Name": "tensionReliefStructure",
-    "Ticker": "TRS",
-    "Weight": 50,
-    "Volume": 50,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "7bd03426f1ced7f6aa13a6195f494930",
-    "CategoryName": "electronic pieces",
-    "CategoryId": "5e022d8f199de1c70f8de4dfd2fdef64",
-    "Name": "copperConnectors",
-    "Ticker": "BCO",
-    "Weight": 0.004999999888241291,
-    "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "2db0ebcc44d7df90defe67cc63903a76",
-    "CategoryName": "electronic pieces",
-    "CategoryId": "5e022d8f199de1c70f8de4dfd2fdef64",
-    "Name": "capacitor",
-    "Ticker": "CAP",
+    "MaterialId": "ef1a8b643e865195823ec884b3343c6a",
+    "CategoryName": "electronic parts",
+    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
+    "Name": "microProcessor",
+    "Ticker": "MPC",
     "Weight": 0.0010000000474974513,
     "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "9da5f471dfc7759a11858456e74fbc8f",
+    "CategoryName": "electronic parts",
+    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
+    "Name": "printedCircuitBoard",
+    "Ticker": "PCB",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.05000000074505806,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "206aa44d627bd8e886a20c565b4bd058",
+    "CategoryName": "electronic parts",
+    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
+    "Name": "memoryBank",
+    "Ticker": "RAM",
+    "Weight": 0.0010000000474974513,
+    "Volume": 0.0010000000474974513,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "23b9ee06710318a6d3e9eec4d0b58cb7",
+    "CategoryName": "electronic parts",
+    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
+    "Name": "nonVolatileMemory",
+    "Ticker": "ROM",
+    "Weight": 0.0010000000474974513,
+    "Volume": 0.0010000000474974513,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "cbb28f4ebfa4e7b26f09d5b585608e3d",
+    "CategoryName": "electronic parts",
+    "CategoryId": "8e15000dfbda2f46ce73458deaeeb358",
+    "Name": "sensor",
+    "Ticker": "SEN",
+    "Weight": 0.0010000000474974513,
+    "Volume": 0.0010000000474974513,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "2689b2d4859b0cb73e7efa9466301297",
+    "CategoryName": "construction materials",
+    "CategoryId": "156bbcce730fba6169338d560f05fd26",
+    "Name": "nanoFiber",
+    "Ticker": "NFI",
+    "Weight": 0.03200000151991844,
+    "Volume": 0.009999999776482582,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "815b7171c7647a71758ff3a13bd303a9",
+    "CategoryName": "ship shields",
+    "CategoryId": "a8e32e7e16219394989aea62fc0cd943",
+    "Name": "advancedHeatShield",
+    "Ticker": "APT",
+    "Weight": 0.029999999329447746,
+    "Volume": 0.30000001192092896,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a9c439ab4a206915c370ad05e0af62d9",
@@ -249,8 +194,8 @@
     "Ticker": "GIN",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b5744244bb7913cee262ec29abc3b9d0",
@@ -260,8 +205,8 @@
     "Ticker": "PT",
     "Weight": 0.25,
     "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "83dd61885cf6879ff49fe1419f068f10",
@@ -271,8 +216,8 @@
     "Ticker": "RAT",
     "Weight": 0.20999999344348907,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "66369803dbe73bee8a78105d3ca00554",
@@ -282,8 +227,8 @@
     "Ticker": "SCN",
     "Weight": 0.0010000000474974513,
     "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a4eeeb1b4c85b0637cfa7ca0a47c78d6",
@@ -293,8 +238,8 @@
     "Ticker": "WS",
     "Weight": 0.05000000074505806,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5cd2b3729f1de46d80cbf7300c905bef",
@@ -304,8 +249,8 @@
     "Ticker": "IDC",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6f09054d36298a23458bfb9942aea6ac",
@@ -315,8 +260,8 @@
     "Ticker": "IMM",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0247f5b671722c53f2bb4cb83af68f2b",
@@ -326,8 +271,8 @@
     "Ticker": "SNM",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4b78d4a814b42073673aecab2e7c5dbc",
@@ -337,8 +282,8 @@
     "Ticker": "WAI",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "2595868f51acc0889a1b15c2e757176b",
@@ -348,8 +293,8 @@
     "Ticker": "GWS",
     "Weight": 5000,
     "Volume": 5000,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0bff5df7021b879dcdb098358d150473",
@@ -359,8 +304,63 @@
     "Ticker": "SPT",
     "Weight": 1.7999999523162842,
     "Volume": 5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "cbf2cde8669ec88def5eff94f58b60bb",
+    "CategoryName": "infrastructure",
+    "CategoryId": "5aac3f26a7e93c5999cfa593dcddd4e1",
+    "Name": "singularityStabilizer",
+    "Ticker": "SST",
+    "Weight": 1500,
+    "Volume": 500,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "1ca3caf43fd0fea8a67522ae6ebf1af0",
+    "CategoryName": "infrastructure",
+    "CategoryId": "5aac3f26a7e93c5999cfa593dcddd4e1",
+    "Name": "torusSegment",
+    "Ticker": "TOR",
+    "Weight": 700,
+    "Volume": 200,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "3a65b32e1c0af942aa911ef541008b1e",
+    "CategoryName": "infrastructure",
+    "CategoryId": "5aac3f26a7e93c5999cfa593dcddd4e1",
+    "Name": "tensionReliefStructure",
+    "Ticker": "TRS",
+    "Weight": 50,
+    "Volume": 50,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7bd03426f1ced7f6aa13a6195f494930",
+    "CategoryName": "electronic pieces",
+    "CategoryId": "5e022d8f199de1c70f8de4dfd2fdef64",
+    "Name": "copperConnectors",
+    "Ticker": "BCO",
+    "Weight": 0.004999999888241291,
+    "Volume": 0.0020000000949949026,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "2db0ebcc44d7df90defe67cc63903a76",
+    "CategoryName": "electronic pieces",
+    "CategoryId": "5e022d8f199de1c70f8de4dfd2fdef64",
+    "Name": "capacitor",
+    "Ticker": "CAP",
+    "Weight": 0.0010000000474974513,
+    "Volume": 0.0010000000474974513,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a1d1d61f8085de53455dd4e8a7813788",
@@ -370,8 +370,8 @@
     "Ticker": "KOM",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a636755a8531daa76ab6b1f95fd5d5e3",
@@ -381,8 +381,8 @@
     "Ticker": "NST",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "820d081096fd3e8fbd98b4344f6250ad",
@@ -392,8 +392,8 @@
     "Ticker": "PWO",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "7171933481f022ca74200b216f98ca60",
@@ -403,8 +403,8 @@
     "Ticker": "REP",
     "Weight": 0.006000000052154064,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9030ca612b7a761bc458240461fc8057",
@@ -414,8 +414,8 @@
     "Ticker": "WIN",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6f5e5b36f990caafe0b6eae133084930",
@@ -425,8 +425,8 @@
     "Ticker": "AEN",
     "Weight": 14,
     "Volume": 7,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5de316b11d1e8f5dc142665ae979ec19",
@@ -436,8 +436,8 @@
     "Ticker": "ANZ",
     "Weight": 6,
     "Volume": 3,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "7e3f98a49ce2d3c8361975de8b4bbea4",
@@ -447,8 +447,8 @@
     "Ticker": "HAL",
     "Weight": 2.1700000762939453,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "24cb7e11e07449e2a6966b92d4ee307d",
@@ -458,8 +458,8 @@
     "Ticker": "SFK",
     "Weight": 0.03999999910593033,
     "Volume": 0.019999999552965164,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f1778b3b4e6643f6424e01ffb79e87a0",
@@ -469,8 +469,8 @@
     "Ticker": "SWF",
     "Weight": 0.003000000026077032,
     "Volume": 0.003000000026077032,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1c9b53bea13393865b625d8310bd2ced",
@@ -480,8 +480,8 @@
     "Ticker": "TRN",
     "Weight": 0.0010000000474974513,
     "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6224081a169a0951a9cac7553d601ba7",
@@ -491,8 +491,8 @@
     "Ticker": "BAI",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "2fae5ed4c15f7d668b9e708dbfc77008",
@@ -502,8 +502,8 @@
     "Ticker": "LD",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4d3d0c15f18a19ec8147adb0f3bd39e6",
@@ -513,8 +513,8 @@
     "Ticker": "MLI",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d26bd2ac52ea6061a923f000cd104967",
@@ -524,8 +524,8 @@
     "Ticker": "NF",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "2a75ecd980c6edd020d71a8b8948aa6a",
@@ -535,8 +535,8 @@
     "Ticker": "CQT",
     "Weight": 12.5,
     "Volume": 25,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3da2d0cffdac26559504aa8fadfcdee2",
@@ -546,8 +546,8 @@
     "Ticker": "DOU",
     "Weight": 5,
     "Volume": 4,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4d7a3d9cf07cd3c3be0cd0092afd0ea8",
@@ -557,8 +557,8 @@
     "Ticker": "RDL",
     "Weight": 150,
     "Volume": 30,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "addf3b08bfd443feb2c5f51c776155f5",
@@ -568,8 +568,8 @@
     "Ticker": "RDS",
     "Weight": 50,
     "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "04aac5d04eadadd5a34806f60334abc3",
@@ -579,8 +579,8 @@
     "Ticker": "SU",
     "Weight": 6,
     "Volume": 5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "7923f6f2e04ed63a27fed11aa350a48b",
@@ -590,8 +590,8 @@
     "Ticker": "TCU",
     "Weight": 5,
     "Volume": 4,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "34c4ff00c83e6b8f247f9b3948f7fe1a",
@@ -601,184 +601,8 @@
     "Ticker": "WOR",
     "Weight": 5,
     "Volume": 5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "9e783e064cfecd477c04cd25f0cf0389",
-    "CategoryName": "ship shields",
-    "CategoryId": "a8e32e7e16219394989aea62fc0cd943",
-    "Name": "specializedRadiationShielding",
-    "Ticker": "SRP",
-    "Weight": 0.10000000149011612,
-    "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "d4a247f1ae7a17b6e80057866ecdf90d",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "antennaArray",
-    "Ticker": "AAR",
-    "Weight": 0.7799999713897705,
-    "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "e40f3373c1b7c0158d69ee9adfe612b1",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "waterFilter",
-    "Ticker": "AWF",
-    "Weight": 0.800000011920929,
-    "Volume": 1.2000000476837158,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "1dc2dcd0be19e4272767510d3392fe36",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "fullBodyInteractionDevice",
-    "Ticker": "BID",
-    "Weight": 0.05000000074505806,
-    "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "c8a952f1ae3dbd4be8a72741efa29880",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "bodyScanner",
-    "Ticker": "BSC",
-    "Weight": 0.10000000149011612,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "dca85bbac276e8688496bd8ae06b1185",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "workstationBlank",
-    "Ticker": "BWS",
-    "Weight": 0.05000000074505806,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "9409ba6022b2767eb16bbee6d680cf8c",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "holographicDisplay",
-    "Ticker": "HD",
-    "Weight": 0.05000000074505806,
-    "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "488a45ca9f9a3be0bbbe7b4f53ef5b31",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "holographicGlasses",
-    "Ticker": "HOG",
-    "Weight": 0.009999999776482582,
-    "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "3795b86284befb6c493ccd380258c970",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "touchDeviceBlank",
-    "Ticker": "HPC",
-    "Weight": 0.003000000026077032,
-    "Volume": 0.003000000026077032,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "33ae4b6e0e01638f33a18ab9b0bf917d",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "microHeadphones",
-    "Ticker": "MHP",
-    "Weight": 0.0010000000474974513,
-    "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "c8e78ba6113f8db69d14ae620ddbad06",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "radioDevice",
-    "Ticker": "RAD",
-    "Weight": 0.003000000026077032,
-    "Volume": 0.004999999888241291,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "5c9630043c3f2d66206977ae394d8cf0",
-    "CategoryName": "electronic devices",
-    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
-    "Name": "sensorArray",
-    "Ticker": "SAR",
-    "Weight": 1.7000000476837158,
-    "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "de74e4c1ab68d0889a7204f154153da1",
-    "CategoryName": "metals",
-    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
-    "Name": "gold",
-    "Ticker": "AU",
-    "Weight": 19.31999969482422,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "495ffb5105f367b76b1310c1d6736ac9",
-    "CategoryName": "metals",
-    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
-    "Name": "copper",
-    "Ticker": "CU",
-    "Weight": 8.920000076293945,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "7921cd20f7add0b26ff77f76e3e911f8",
-    "CategoryName": "metals",
-    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
-    "Name": "iron",
-    "Ticker": "FE",
-    "Weight": 7.874000072479248,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "295bef52967a15fda26f5968976d29b8",
-    "CategoryName": "metals",
-    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
-    "Name": "lithium",
-    "Ticker": "LI",
-    "Weight": 0.550000011920929,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3798c56adc243fe2b25d988139939d8d",
@@ -788,8 +612,8 @@
     "Ticker": "BFP",
     "Weight": 0.800000011920929,
     "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "206d41a1981a67025be0299c67943607",
@@ -799,8 +623,8 @@
     "Ticker": "BFR",
     "Weight": 0.30000001192092896,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c2ea542d15989d97a9d1b9c89f2b0b07",
@@ -810,8 +634,8 @@
     "Ticker": "FIR",
     "Weight": 7,
     "Volume": 4.900000095367432,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d643ca86b7ddbc8ab087ac9e2fcb0980",
@@ -821,19 +645,184 @@
     "Ticker": "FSE",
     "Weight": 6,
     "Volume": 3,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "51c829b6e62e70223024ffa6688db9f7",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "flux",
-    "Ticker": "FLX",
-    "Weight": 0.25,
+    "MaterialId": "9e783e064cfecd477c04cd25f0cf0389",
+    "CategoryName": "ship shields",
+    "CategoryId": "a8e32e7e16219394989aea62fc0cd943",
+    "Name": "specializedRadiationShielding",
+    "Ticker": "SRP",
+    "Weight": 0.10000000149011612,
+    "Volume": 0.20000000298023224,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "d4a247f1ae7a17b6e80057866ecdf90d",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "antennaArray",
+    "Ticker": "AAR",
+    "Weight": 0.7799999713897705,
+    "Volume": 0.5,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "e40f3373c1b7c0158d69ee9adfe612b1",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "waterFilter",
+    "Ticker": "AWF",
+    "Weight": 0.800000011920929,
+    "Volume": 1.2000000476837158,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "1dc2dcd0be19e4272767510d3392fe36",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "fullBodyInteractionDevice",
+    "Ticker": "BID",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.05000000074505806,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "c8a952f1ae3dbd4be8a72741efa29880",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "bodyScanner",
+    "Ticker": "BSC",
+    "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "dca85bbac276e8688496bd8ae06b1185",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "workstationBlank",
+    "Ticker": "BWS",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "9409ba6022b2767eb16bbee6d680cf8c",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "holographicDisplay",
+    "Ticker": "HD",
+    "Weight": 0.05000000074505806,
+    "Volume": 2,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "488a45ca9f9a3be0bbbe7b4f53ef5b31",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "holographicGlasses",
+    "Ticker": "HOG",
+    "Weight": 0.009999999776482582,
+    "Volume": 0.009999999776482582,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "3795b86284befb6c493ccd380258c970",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "touchDeviceBlank",
+    "Ticker": "HPC",
+    "Weight": 0.003000000026077032,
+    "Volume": 0.003000000026077032,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "33ae4b6e0e01638f33a18ab9b0bf917d",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "microHeadphones",
+    "Ticker": "MHP",
+    "Weight": 0.0010000000474974513,
+    "Volume": 0.0010000000474974513,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "c8e78ba6113f8db69d14ae620ddbad06",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "radioDevice",
+    "Ticker": "RAD",
+    "Weight": 0.003000000026077032,
+    "Volume": 0.004999999888241291,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "5c9630043c3f2d66206977ae394d8cf0",
+    "CategoryName": "electronic devices",
+    "CategoryId": "19d621bb3f297c0425e34cdf0b138ece",
+    "Name": "sensorArray",
+    "Ticker": "SAR",
+    "Weight": 1.7000000476837158,
+    "Volume": 2,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "de74e4c1ab68d0889a7204f154153da1",
+    "CategoryName": "metals",
+    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
+    "Name": "gold",
+    "Ticker": "AU",
+    "Weight": 19.31999969482422,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "495ffb5105f367b76b1310c1d6736ac9",
+    "CategoryName": "metals",
+    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
+    "Name": "copper",
+    "Ticker": "CU",
+    "Weight": 8.920000076293945,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7921cd20f7add0b26ff77f76e3e911f8",
+    "CategoryName": "metals",
+    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
+    "Name": "iron",
+    "Ticker": "FE",
+    "Weight": 7.874000072479248,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "295bef52967a15fda26f5968976d29b8",
+    "CategoryName": "metals",
+    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
+    "Name": "lithium",
+    "Ticker": "LI",
+    "Weight": 0.550000011920929,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5952bfbf043018679334e7ea71b1504e",
@@ -843,8 +832,8 @@
     "Ticker": "SC",
     "Weight": 0.03999999910593033,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4c38903fc8fd2f87b1877ab9d47cb57e",
@@ -854,8 +843,8 @@
     "Ticker": "GEN",
     "Weight": 5,
     "Volume": 3,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "77638e63e83ace0a7e33667d362a3a91",
@@ -865,8 +854,8 @@
     "Ticker": "GNZ",
     "Weight": 1.5,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f4316553b9594a88e21536a897f0cab4",
@@ -876,8 +865,8 @@
     "Ticker": "HNZ",
     "Weight": 6,
     "Volume": 12,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "93a78d6bcf54aef3f2ea93f1238ce79a",
@@ -887,8 +876,8 @@
     "Ticker": "HPR",
     "Weight": 16,
     "Volume": 15,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "7075b9314a25ea13f973a1f2d2dad18e",
@@ -898,8 +887,8 @@
     "Ticker": "HTE",
     "Weight": 16,
     "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "844341ef73a82d657b64050be2632c53",
@@ -909,8 +898,8 @@
     "Ticker": "HYR",
     "Weight": 25,
     "Volume": 25,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ce50248c2878dc89de170da84bbee064",
@@ -920,8 +909,8 @@
     "Ticker": "GC",
     "Weight": 0.05000000074505806,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "67516facbdb77c8d6fe49162f2ca3917",
@@ -931,8 +920,8 @@
     "Ticker": "GV",
     "Weight": 0.25,
     "Volume": 0.15000000596046448,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "05be9d04aad5bb7ea6ed6db76102399f",
@@ -942,8 +931,8 @@
     "Ticker": "LIS",
     "Weight": 5.599999904632568,
     "Volume": 7,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d0d20f604c3b3348cad620a02c664d57",
@@ -953,8 +942,8 @@
     "Ticker": "LOG",
     "Weight": 0.5,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "83cadb15cbdc91cbdf616710b05afb34",
@@ -964,8 +953,8 @@
     "Ticker": "STS",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c8cc72aa9babd2ca382be2f358202587",
@@ -975,8 +964,8 @@
     "Ticker": "CF",
     "Weight": 2.819999933242798,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "563f37e86831a8361e79fa62ebe059eb",
@@ -986,41 +975,19 @@
     "Ticker": "TK",
     "Weight": 1.8899999856948853,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "1ddffd7f8b1ff5391113582ffac2eff0",
-    "CategoryName": "construction parts",
-    "CategoryId": "f8aebc7dd84ce14fae131aa0203d4498",
-    "Name": "decorativeElements",
-    "Ticker": "DEC",
-    "Weight": 0.5,
-    "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "a2b6316f3bc85f3e1b05ae36e49faa4c",
-    "CategoryName": "construction parts",
-    "CategoryId": "f8aebc7dd84ce14fae131aa0203d4498",
-    "Name": "flowControl",
-    "Ticker": "FC",
-    "Weight": 0.5,
-    "Volume": 0.25,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "2f2863037da2f5b88e13609b2cc21e3b",
-    "CategoryName": "elements",
-    "CategoryId": "ef1d03e7ef924395c2173fc4e4ee8a6f",
-    "Name": "sulfur",
-    "Ticker": "S",
-    "Weight": 0.5199999809265137,
-    "Volume": 0.25,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "51c829b6e62e70223024ffa6688db9f7",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "flux",
+    "Ticker": "FLX",
+    "Weight": 0.25,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9c80515790fcd5fefc84d56c80f4bb2a",
@@ -1030,8 +997,8 @@
     "Ticker": "VG",
     "Weight": 0.20999999344348907,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e892dd87f4f499f96bdbaa2ca5965ce9",
@@ -1041,8 +1008,8 @@
     "Ticker": "LFE",
     "Weight": 0.4000000059604645,
     "Volume": 1.600000023841858,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b2ba495fc0643c5e5c71195be14aef0e",
@@ -1052,8 +1019,8 @@
     "Ticker": "LFP",
     "Weight": 0.5,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "943fff6ce1b470ea031432a15a9afe47",
@@ -1063,8 +1030,8 @@
     "Ticker": "MFE",
     "Weight": 0.20000000298023224,
     "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e5bea4cd29eccc0162885f338cd1c235",
@@ -1074,8 +1041,8 @@
     "Ticker": "RCS",
     "Weight": 0.6700000166893005,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "17147bdc09c3762514c78f12dc17b79a",
@@ -1085,8 +1052,8 @@
     "Ticker": "RCT",
     "Weight": 7,
     "Volume": 4,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "bbfa7555fbfa8ef2852d4479f7aa703e",
@@ -1096,8 +1063,8 @@
     "Ticker": "SFE",
     "Weight": 0.10000000149011612,
     "Volume": 0.4000000059604645,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f61588ec7828cc953e8199bd8a0c2edb",
@@ -1107,8 +1074,8 @@
     "Ticker": "VOE",
     "Weight": 40,
     "Volume": 35,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a36d549d1340c1d489cc4a9ccccf22d0",
@@ -1118,8 +1085,8 @@
     "Ticker": "EDC",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c06935922eac3dccb7d7a368a899d309",
@@ -1129,8 +1096,8 @@
     "Ticker": "NN",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "8bdcb737ea5ad7fde81d2b8c78cfd0aa",
@@ -1140,8 +1107,8 @@
     "Ticker": "OS",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5fa39c2298568262540bf6579feb017e",
@@ -1151,8 +1118,8 @@
     "Ticker": "AEF",
     "Weight": 2,
     "Volume": 5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cbfa90b487f0d79023e11da44f052f96",
@@ -1162,52 +1129,41 @@
     "Ticker": "AIR",
     "Weight": 1.7000000476837158,
     "Volume": 3,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "b2ca8883f60fb72011ad33855c531f3a",
-    "CategoryName": "alloys",
-    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
-    "Name": "goldIronAlloy",
-    "Ticker": "BGO",
-    "Weight": 19.31999969482422,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "1ddffd7f8b1ff5391113582ffac2eff0",
+    "CategoryName": "construction parts",
+    "CategoryId": "f8aebc7dd84ce14fae131aa0203d4498",
+    "Name": "decorativeElements",
+    "Ticker": "DEC",
+    "Weight": 0.5,
+    "Volume": 2,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "08adb8c8b129d07b85919cff2fdc2c0d",
-    "CategoryName": "alloys",
-    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
-    "Name": "borosilicate",
-    "Ticker": "BOS",
-    "Weight": 1.5,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "a2b6316f3bc85f3e1b05ae36e49faa4c",
+    "CategoryName": "construction parts",
+    "CategoryId": "f8aebc7dd84ce14fae131aa0203d4498",
+    "Name": "flowControl",
+    "Ticker": "FC",
+    "Weight": 0.5,
+    "Volume": 0.25,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "069cfa526ddedea57b71adc0d4556c21",
-    "CategoryName": "alloys",
-    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
-    "Name": "copperAluminiumAlloy",
-    "Ticker": "BRO",
-    "Weight": 8.729999542236328,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "78b8206e505d8970f0d9a8f56885ec97",
-    "CategoryName": "alloys",
-    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
-    "Name": "aluminiumIronAlloy",
-    "Ticker": "FAL",
-    "Weight": 3.2200000286102295,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "2f2863037da2f5b88e13609b2cc21e3b",
+    "CategoryName": "elements",
+    "CategoryId": "ef1d03e7ef924395c2173fc4e4ee8a6f",
+    "Name": "sulfur",
+    "Ticker": "S",
+    "Weight": 0.5199999809265137,
+    "Volume": 0.25,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cd0c4bd7aae87c7e402d359b6e908b05",
@@ -1217,8 +1173,8 @@
     "Ticker": "ALE",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cc12f1c859c25f13867485ea395f34c0",
@@ -1228,8 +1184,8 @@
     "Ticker": "FLO",
     "Weight": 1,
     "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3395e6f815495c32d54823f350e5c15d",
@@ -1239,8 +1195,8 @@
     "Ticker": "LIT",
     "Weight": 1,
     "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4f26e8b4f9cb1373311fcd3323a53bdd",
@@ -1250,8 +1206,8 @@
     "Ticker": "MGC",
     "Weight": 0.6000000238418579,
     "Volume": 0.8999999761581421,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9282cf0c801f5b5adcee3b44621ea1bb",
@@ -1261,8 +1217,8 @@
     "Ticker": "MHL",
     "Weight": 0.10000000149011612,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "eebc3c4618186afa73bbe0a19be73eed",
@@ -1272,8 +1228,8 @@
     "Ticker": "PSH",
     "Weight": 4.199999809265137,
     "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3b32f1da809a1cd9083a22f7aa0c8af2",
@@ -1283,8 +1239,8 @@
     "Ticker": "RSH",
     "Weight": 3.700000047683716,
     "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ccfd9b3d2d89ab9876ef33f7e915294f",
@@ -1294,8 +1250,8 @@
     "Ticker": "TCS",
     "Weight": 3.4000000953674316,
     "Volume": 1.2000000476837158,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ec53c7423b75ca0d868f9580ae921561",
@@ -1305,8 +1261,8 @@
     "Ticker": "TRU",
     "Weight": 0.10000000149011612,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "56afb81e665cf39883cdffbb26f81bf5",
@@ -1316,8 +1272,8 @@
     "Ticker": "TSH",
     "Weight": 2.4000000953674316,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5ddd503694fc9c42013e2cf2ca3b85af",
@@ -1327,8 +1283,8 @@
     "Ticker": "ALR",
     "Weight": 3.5999999046325684,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5a3934eb6d4ffc642fab7a358c3fb1b8",
@@ -1338,184 +1294,52 @@
     "Ticker": "AST",
     "Weight": 4.980000019073486,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "7c21fd74ca3684f0df5470d774e694a3",
-    "CategoryName": "energy systems",
-    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
-    "Name": "largeCapacitorBank",
-    "Ticker": "CBL",
-    "Weight": 5.400000095367432,
-    "Volume": 2.4000000953674316,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "b2ca8883f60fb72011ad33855c531f3a",
+    "CategoryName": "alloys",
+    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
+    "Name": "goldIronAlloy",
+    "Ticker": "BGO",
+    "Weight": 19.31999969482422,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "284020181d5731f5119fd98352061ad5",
-    "CategoryName": "energy systems",
-    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
-    "Name": "mediumCapacitorBank",
-    "Ticker": "CBM",
-    "Weight": 3.5999999046325684,
-    "Volume": 1.600000023841858,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "46fef6e8b458e46414345cf8248410c3",
-    "CategoryName": "energy systems",
-    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
-    "Name": "smallCapacitorBank",
-    "Ticker": "CBS",
-    "Weight": 1.7999999523162842,
-    "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "edb9e2c57c966f28c66f441bda0b030f",
-    "CategoryName": "energy systems",
-    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
-    "Name": "powerCell",
-    "Ticker": "POW",
-    "Weight": 0.05000000074505806,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "bda47fe5bfb1769235f9447569b0d369",
-    "CategoryName": "energy systems",
-    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
-    "Name": "solarCell",
-    "Ticker": "SOL",
-    "Weight": 0.014999999664723873,
-    "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "4602969555899f2a4955e3b08d2fbdb6",
-    "CategoryName": "energy systems",
-    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
-    "Name": "solarPanel",
-    "Ticker": "SP",
-    "Weight": 0.15000000596046448,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "ec3491b37050a8c780dc514033131843",
-    "CategoryName": "construction prefabs",
-    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
-    "Name": "hardenedStructuralElements",
-    "Ticker": "HSE",
-    "Weight": 3.0999999046325684,
-    "Volume": 0.699999988079071,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "772408d48cf5842fb003698aaa7a6a94",
-    "CategoryName": "construction prefabs",
-    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
-    "Name": "lightweightBulkhead",
-    "Ticker": "LBH",
-    "Weight": 0.20000000298023224,
-    "Volume": 0.6000000238418579,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "3010d90fde69729f4754b092fdcda826",
-    "CategoryName": "construction prefabs",
-    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
-    "Name": "lightweightDeckElements",
-    "Ticker": "LDE",
-    "Weight": 0.10000000149011612,
-    "Volume": 1.2000000476837158,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "8d4e0986419d2769fe50ac6497be6b7e",
-    "CategoryName": "construction prefabs",
-    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
-    "Name": "lightweightStructuralElements",
-    "Ticker": "LSE",
-    "Weight": 0.30000001192092896,
-    "Volume": 1.2000000476837158,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "a24540c6c24595ca5bf47f091f11c8f9",
-    "CategoryName": "construction prefabs",
-    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
-    "Name": "reinforcedWindow",
-    "Ticker": "RTA",
+    "MaterialId": "08adb8c8b129d07b85919cff2fdc2c0d",
+    "CategoryName": "alloys",
+    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
+    "Name": "borosilicate",
+    "Ticker": "BOS",
     "Weight": 1.5,
-    "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "7a2a12cd6872b89a6b97532618788a4d",
-    "CategoryName": "fuels",
-    "CategoryId": "ba98fa0cf77040a96cd8a608ad0d08e9",
-    "Name": "ftlFuel",
-    "Ticker": "FF",
-    "Weight": 0.05000000074505806,
-    "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "069cfa526ddedea57b71adc0d4556c21",
+    "CategoryName": "alloys",
+    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
+    "Name": "copperAluminiumAlloy",
+    "Ticker": "BRO",
+    "Weight": 8.729999542236328,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "7756a0779efe67f0f293f41eda4944d4",
-    "CategoryName": "fuels",
-    "CategoryId": "ba98fa0cf77040a96cd8a608ad0d08e9",
-    "Name": "stlFuel",
-    "Ticker": "SF",
-    "Weight": 0.05999999865889549,
-    "Volume": 0.05999999865889549,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "76afd4e7e388072fbb01051c4ad8afde",
-    "CategoryName": "fuels",
-    "CategoryId": "ba98fa0cf77040a96cd8a608ad0d08e9",
-    "Name": "vortexStimulationFuel",
-    "Ticker": "VF",
-    "Weight": 0.10000000149011612,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "0b6a3cf120eac87d6a4bb21ad41371a1",
-    "CategoryName": "ship kits",
-    "CategoryId": "b7102e43e58120a254cf161c226d4177",
-    "Name": "hugeCargoBay",
-    "Ticker": "HCB",
-    "Weight": 500,
-    "Volume": 500,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "d140bdc3f13c831ab8931e330c8d6120",
-    "CategoryName": "ship kits",
-    "CategoryId": "b7102e43e58120a254cf161c226d4177",
-    "Name": "largeCargoBay",
-    "Ticker": "LCB",
-    "Weight": 200,
-    "Volume": 200,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "78b8206e505d8970f0d9a8f56885ec97",
+    "CategoryName": "alloys",
+    "CategoryId": "37e95782d80aa1c1ded89f2c4b834dd0",
+    "Name": "aluminiumIronAlloy",
+    "Ticker": "FAL",
+    "Weight": 3.2200000286102295,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f02fe7ddd1a92d3b7968fdbc40f8447e",
@@ -1525,8 +1349,8 @@
     "Ticker": "AFP",
     "Weight": 1,
     "Volume": 0.25,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b591180c0f681910b0e29ade88b6be62",
@@ -1536,8 +1360,8 @@
     "Ticker": "AFR",
     "Weight": 0.4000000059604645,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "7cc9acecdf3e9565c9b4cbe9c96f0ab5",
@@ -1547,8 +1371,8 @@
     "Ticker": "TPU",
     "Weight": 0.0020000000949949026,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b805d86e129e9cf885ac92fabc6aa59f",
@@ -1558,8 +1382,184 @@
     "Ticker": "TRA",
     "Weight": 0.004999999888241291,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7c21fd74ca3684f0df5470d774e694a3",
+    "CategoryName": "energy systems",
+    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
+    "Name": "largeCapacitorBank",
+    "Ticker": "CBL",
+    "Weight": 5.400000095367432,
+    "Volume": 2.4000000953674316,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "284020181d5731f5119fd98352061ad5",
+    "CategoryName": "energy systems",
+    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
+    "Name": "mediumCapacitorBank",
+    "Ticker": "CBM",
+    "Weight": 3.5999999046325684,
+    "Volume": 1.600000023841858,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "46fef6e8b458e46414345cf8248410c3",
+    "CategoryName": "energy systems",
+    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
+    "Name": "smallCapacitorBank",
+    "Ticker": "CBS",
+    "Weight": 1.7999999523162842,
+    "Volume": 0.800000011920929,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "edb9e2c57c966f28c66f441bda0b030f",
+    "CategoryName": "energy systems",
+    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
+    "Name": "powerCell",
+    "Ticker": "POW",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "bda47fe5bfb1769235f9447569b0d369",
+    "CategoryName": "energy systems",
+    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
+    "Name": "solarCell",
+    "Ticker": "SOL",
+    "Weight": 0.014999999664723873,
+    "Volume": 0.009999999776482582,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "4602969555899f2a4955e3b08d2fbdb6",
+    "CategoryName": "energy systems",
+    "CategoryId": "0509ed0a396f5a004d24ef08e33786fb",
+    "Name": "solarPanel",
+    "Ticker": "SP",
+    "Weight": 0.15000000596046448,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "ec3491b37050a8c780dc514033131843",
+    "CategoryName": "construction prefabs",
+    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
+    "Name": "hardenedStructuralElements",
+    "Ticker": "HSE",
+    "Weight": 3.0999999046325684,
+    "Volume": 0.699999988079071,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "772408d48cf5842fb003698aaa7a6a94",
+    "CategoryName": "construction prefabs",
+    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
+    "Name": "lightweightBulkhead",
+    "Ticker": "LBH",
+    "Weight": 0.20000000298023224,
+    "Volume": 0.6000000238418579,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "3010d90fde69729f4754b092fdcda826",
+    "CategoryName": "construction prefabs",
+    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
+    "Name": "lightweightDeckElements",
+    "Ticker": "LDE",
+    "Weight": 0.10000000149011612,
+    "Volume": 1.2000000476837158,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "8d4e0986419d2769fe50ac6497be6b7e",
+    "CategoryName": "construction prefabs",
+    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
+    "Name": "lightweightStructuralElements",
+    "Ticker": "LSE",
+    "Weight": 0.30000001192092896,
+    "Volume": 1.2000000476837158,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "a24540c6c24595ca5bf47f091f11c8f9",
+    "CategoryName": "construction prefabs",
+    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
+    "Name": "reinforcedWindow",
+    "Ticker": "RTA",
+    "Weight": 1.5,
+    "Volume": 0.5,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7a2a12cd6872b89a6b97532618788a4d",
+    "CategoryName": "fuels",
+    "CategoryId": "ba98fa0cf77040a96cd8a608ad0d08e9",
+    "Name": "ftlFuel",
+    "Ticker": "FF",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.009999999776482582,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7756a0779efe67f0f293f41eda4944d4",
+    "CategoryName": "fuels",
+    "CategoryId": "ba98fa0cf77040a96cd8a608ad0d08e9",
+    "Name": "stlFuel",
+    "Ticker": "SF",
+    "Weight": 0.05999999865889549,
+    "Volume": 0.05999999865889549,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "76afd4e7e388072fbb01051c4ad8afde",
+    "CategoryName": "fuels",
+    "CategoryId": "ba98fa0cf77040a96cd8a608ad0d08e9",
+    "Name": "vortexStimulationFuel",
+    "Ticker": "VF",
+    "Weight": 0.10000000149011612,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "0b6a3cf120eac87d6a4bb21ad41371a1",
+    "CategoryName": "ship kits",
+    "CategoryId": "b7102e43e58120a254cf161c226d4177",
+    "Name": "hugeCargoBay",
+    "Ticker": "HCB",
+    "Weight": 500,
+    "Volume": 500,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "d140bdc3f13c831ab8931e330c8d6120",
+    "CategoryName": "ship kits",
+    "CategoryId": "b7102e43e58120a254cf161c226d4177",
+    "Name": "largeCargoBay",
+    "Ticker": "LCB",
+    "Weight": 200,
+    "Volume": 200,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "099fe9e22a3c6238629445fe518b58ff",
@@ -1569,8 +1569,8 @@
     "Ticker": "CHA",
     "Weight": 1.2000000476837158,
     "Volume": 0.699999988079071,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "39cbe35342c34d16bc02009130920bb4",
@@ -1580,8 +1580,8 @@
     "Ticker": "ENG",
     "Weight": 8,
     "Volume": 4,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "fba7294b0f74a4a2527f5a7049c70120",
@@ -1591,8 +1591,8 @@
     "Ticker": "BOR",
     "Weight": 1.7999999523162842,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e97bde9e60d4c60a16205d2c859eda62",
@@ -1602,8 +1602,8 @@
     "Ticker": "BRM",
     "Weight": 2.5,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4d2a6c0cf6eb404cda3b35820bcbe453",
@@ -1613,8 +1613,8 @@
     "Ticker": "CLI",
     "Weight": 2.4200000762939453,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c5236c5b79b9e75ddbce16887aeda338",
@@ -1624,8 +1624,8 @@
     "Ticker": "GAL",
     "Weight": 2.509999990463257,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1f9a0293d9ba9bf519f71432e695edeb",
@@ -1635,8 +1635,8 @@
     "Ticker": "LST",
     "Weight": 2.7300000190734863,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "42e71bbfad2d69d9716ba14e653f50d4",
@@ -1646,8 +1646,8 @@
     "Ticker": "BWH",
     "Weight": 0.10000000149011612,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3643069b469e68db439510dd551ad025",
@@ -1657,8 +1657,8 @@
     "Ticker": "RE",
     "Weight": 3.200000047683716,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "69e09abe369419b53675148d64164b3a",
@@ -1668,8 +1668,8 @@
     "Ticker": "SI",
     "Weight": 2.3289999961853027,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "aaef669fed967abcfc188df59e1c4f4b",
@@ -1679,8 +1679,8 @@
     "Ticker": "STL",
     "Weight": 7.849999904632568,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "59dc3f23a82660bb9816d4a28775bd17",
@@ -1690,8 +1690,8 @@
     "Ticker": "TI",
     "Weight": 4.5,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "03133ed742ebc355fb01a1b363d48a70",
@@ -1701,8 +1701,8 @@
     "Ticker": "ADS",
     "Weight": 0.699999988079071,
     "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c3851a633c5e8c625bfe332e79af7360",
@@ -1712,8 +1712,8 @@
     "Ticker": "CC",
     "Weight": 0.5,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "8665fabacd64adfbc74ee255b00ae019",
@@ -1723,8 +1723,8 @@
     "Ticker": "GCH",
     "Weight": 1,
     "Volume": 0.6000000238418579,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "24a2518b138203909eb13f330ac298d3",
@@ -1734,8 +1734,8 @@
     "Ticker": "MAG",
     "Weight": 5.150000095367432,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "51531f3012276e93e60cb06b194bac7f",
@@ -1745,8 +1745,8 @@
     "Ticker": "MGS",
     "Weight": 1.7300000190734863,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a4a8a25d01f80586f7bad3488fa11f36",
@@ -1756,8 +1756,8 @@
     "Ticker": "SCR",
     "Weight": 2.049999952316284,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ea550373234a7c171de0f525922af5be",
@@ -1767,8 +1767,8 @@
     "Ticker": "TAI",
     "Weight": 7.940000057220459,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a0f92faf8cf9487b04fda968030527bf",
@@ -1778,8 +1778,8 @@
     "Ticker": "TCO",
     "Weight": 9.800000190734863,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a2e3d2f078583c564476f8d4062c2d1a",
@@ -1789,8 +1789,8 @@
     "Ticker": "TS",
     "Weight": 2.4000000953674316,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "82583e13472538b113667abc82421bda",
@@ -1800,8 +1800,8 @@
     "Ticker": "ZIR",
     "Weight": 4.849999904632568,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "67eab8960fc6262250335978d64c9e80",
@@ -1811,8 +1811,8 @@
     "Ticker": "CMK",
     "Weight": 4.559999942779541,
     "Volume": 33.20000076293945,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "78321af6ac08c494186fafff3965034f",
@@ -1822,8 +1822,8 @@
     "Ticker": "EPO",
     "Weight": 0.03999999910593033,
     "Volume": 0.019999999552965164,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "fbb04a8587195e52ce6df8bc238675dd",
@@ -1833,8 +1833,8 @@
     "Ticker": "GL",
     "Weight": 0.01600000075995922,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "edea6e957426c9531b19ce53fec47ae7",
@@ -1844,8 +1844,8 @@
     "Ticker": "MTC",
     "Weight": 0.03200000151991844,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "08b3d1994643df5efe095b335be3a029",
@@ -1855,8 +1855,8 @@
     "Ticker": "NCS",
     "Weight": 0.02800000086426735,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "aa6636f6018e23e92e52aa74d65e3b7a",
@@ -1866,8 +1866,8 @@
     "Ticker": "OLF",
     "Weight": 0.009999999776482582,
     "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f2b6f7e3711dc54e44da33efec4aadb7",
@@ -1877,8 +1877,8 @@
     "Ticker": "TA",
     "Weight": 16.649999618530273,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "fc7f4fd0177c86ab262a99c9bde5a0d0",
@@ -1888,8 +1888,8 @@
     "Ticker": "TC",
     "Weight": 11.800000190734863,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e2a7a3a35c5e390f42db1faa468459dd",
@@ -1899,8 +1899,8 @@
     "Ticker": "ZR",
     "Weight": 6.53000020980835,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "bcf4a2029e461cf76d29de8c66ec2ff9",
@@ -1910,8 +1910,8 @@
     "Ticker": "AMM",
     "Weight": 0.8600000143051147,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a014493f8716f1636704dc836acc66ec",
@@ -1921,8 +1921,8 @@
     "Ticker": "AR",
     "Weight": 1.784000039100647,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e9dc6ec89adb62b9ef83031d89e3ce99",
@@ -1932,8 +1932,8 @@
     "Ticker": "HE",
     "Weight": 0.14499999582767487,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4e10b93baa6166496b204e0531347959",
@@ -1943,8 +1943,8 @@
     "Ticker": "HE3",
     "Weight": 0.14499999582767487,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "82cd82533fdfb68b315bd8697a241b55",
@@ -1954,8 +1954,8 @@
     "Ticker": "KR",
     "Weight": 2.799999952316284,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0a37a0d116f1271b285b7304e413733b",
@@ -1965,8 +1965,8 @@
     "Ticker": "AGS",
     "Weight": 30,
     "Volume": 5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "686d319fc72c05510a884292da6cb664",
@@ -1976,239 +1976,8 @@
     "Ticker": "AHP",
     "Weight": 10,
     "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "cebf6ae4dbea53789660ed6b9a4a5e86",
-    "CategoryName": "software components",
-    "CategoryId": "ebec0c297d5b499a84dd051fa6f7c8ec",
-    "Name": "searchAlgorithm",
-    "Ticker": "SA",
-    "Weight": 0.0010000000474974513,
-    "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "21dd9e8e792b601949b9024991244f9e",
-    "CategoryName": "ores",
-    "CategoryId": "4c0430b40fbf7fa175ed4a5a13682c6f",
-    "Name": "rheniumOre",
-    "Ticker": "REO",
-    "Weight": 12.800000190734863,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "70504de53ce6b9348f725e442586d75c",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "commandBridge1",
-    "Ticker": "BR1",
-    "Weight": 180,
-    "Volume": 300,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "73e30b806837b71692e2857fd9aff667",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "commandBridge2",
-    "Ticker": "BR2",
-    "Weight": 280,
-    "Volume": 400,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "bfef679d7f2ac72b24c2a277fdf072ef",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "commandBridgeShort",
-    "Ticker": "BRS",
-    "Weight": 150,
-    "Volume": 200,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "fdb85e688cf7f229f20c8e819c4cab9f",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "biosphereUnit",
-    "Ticker": "BSU",
-    "Weight": 50,
-    "Volume": 50,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "7bcbe9bbdebb94ec145d614baf8e65f5",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "cryopreservationUnit",
-    "Ticker": "CPU",
-    "Weight": 20,
-    "Volume": 20,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "e04f3be303b7dabe50ef92a354070891",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "crewQuarters",
-    "Ticker": "CQL",
-    "Weight": 75,
-    "Volume": 150,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "128870a0d62fc67b9d562bb40ddf3922",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "crewQuartersMed",
-    "Ticker": "CQM",
-    "Weight": 50,
-    "Volume": 100,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "9f4c5f6a328a1bef6a989c7ea6b21fb9",
-    "CategoryName": "unit prefabs",
-    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
-    "Name": "crewQuartersSmall",
-    "Ticker": "CQS",
-    "Weight": 25,
-    "Volume": 50,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "7bfabb5b93eb7a287206e062ce829e29",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "advancedThermalProtectionMaterial",
-    "Ticker": "ATP",
-    "Weight": 2.9000000953674316,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "c03644ad9e74ee585b1148f608010003",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "basicHullPlate",
-    "Ticker": "BHP",
-    "Weight": 9,
-    "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "7e3db35fdccce745cede7b1b636f3cb1",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "habitationModule",
-    "Ticker": "HAM",
-    "Weight": 1200,
-    "Volume": 1200,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "bb576032a158719b514c2b3f3e87e30a",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "hardenedHullPlate",
-    "Ticker": "HHP",
-    "Weight": 10,
-    "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "f3f12b5b3adebdd25f3067e5aa4589f0",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "lightweightHullPlate",
-    "Ticker": "LHP",
-    "Weight": 4,
-    "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "e8e7a34cb5e2a62aaf8d83dc79d81ee5",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "navigation1",
-    "Ticker": "NV1",
-    "Weight": 4.199999809265137,
-    "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "ccdecb3fc5eb9f0d04c67cc1c9fb47dd",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "navigation2",
-    "Ticker": "NV2",
-    "Weight": 6.699999809265137,
-    "Volume": 3,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "e59f70623448014f8fac5af9922de5c3",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "reinforcedHullPlate",
-    "Ticker": "RHP",
-    "Weight": 10,
-    "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "683145c220ccb5ed327326d7c4e26c6d",
-    "CategoryName": "ship parts",
-    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
-    "Name": "basicThermalProtectionMaterial",
-    "Ticker": "THP",
-    "Weight": 2.200000047683716,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "e0bc5afdf3ca754592f454fdbd813c74",
-    "CategoryName": "drones",
-    "CategoryId": "6eb09f14ed9fec3d0407114be8bc8882",
-    "Name": "crowdControlDrone",
-    "Ticker": "CCD",
-    "Weight": 0.30000001192092896,
-    "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "ab5016ca0c184474d80e00ee5f8a8b66",
-    "CategoryName": "drones",
-    "CategoryId": "6eb09f14ed9fec3d0407114be8bc8882",
-    "Name": "droneFrame",
-    "Ticker": "DRF",
-    "Weight": 0.10000000149011612,
-    "Volume": 0.019999999552965164,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f4cb7556739ec63fe3e019ee0f798263",
@@ -2218,118 +1987,239 @@
     "Ticker": "NOZ",
     "Weight": 3,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "334f3510e3265410da15174160fbf8f5",
-    "CategoryName": "construction prefabs",
-    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
-    "Name": "basicWindow",
-    "Ticker": "BTA",
+    "MaterialId": "cebf6ae4dbea53789660ed6b9a4a5e86",
+    "CategoryName": "software components",
+    "CategoryId": "ebec0c297d5b499a84dd051fa6f7c8ec",
+    "Name": "searchAlgorithm",
+    "Ticker": "SA",
+    "Weight": 0.0010000000474974513,
+    "Volume": 0.009999999776482582,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "21dd9e8e792b601949b9024991244f9e",
+    "CategoryName": "ores",
+    "CategoryId": "4c0430b40fbf7fa175ed4a5a13682c6f",
+    "Name": "rheniumOre",
+    "Ticker": "REO",
+    "Weight": 12.800000190734863,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "70504de53ce6b9348f725e442586d75c",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "commandBridge1",
+    "Ticker": "BR1",
+    "Weight": 180,
+    "Volume": 300,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "73e30b806837b71692e2857fd9aff667",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "commandBridge2",
+    "Ticker": "BR2",
+    "Weight": 280,
+    "Volume": 400,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "bfef679d7f2ac72b24c2a277fdf072ef",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "commandBridgeShort",
+    "Ticker": "BRS",
+    "Weight": 150,
+    "Volume": 200,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "fdb85e688cf7f229f20c8e819c4cab9f",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "biosphereUnit",
+    "Ticker": "BSU",
+    "Weight": 50,
+    "Volume": 50,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7bcbe9bbdebb94ec145d614baf8e65f5",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "cryopreservationUnit",
+    "Ticker": "CPU",
+    "Weight": 20,
+    "Volume": 20,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "e04f3be303b7dabe50ef92a354070891",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "crewQuarters",
+    "Ticker": "CQL",
+    "Weight": 75,
+    "Volume": 150,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "128870a0d62fc67b9d562bb40ddf3922",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "crewQuartersMed",
+    "Ticker": "CQM",
+    "Weight": 50,
+    "Volume": 100,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "9f4c5f6a328a1bef6a989c7ea6b21fb9",
+    "CategoryName": "unit prefabs",
+    "CategoryId": "2c6ca18d24e03fc9250d8ca7d577568b",
+    "Name": "crewQuartersSmall",
+    "Ticker": "CQS",
+    "Weight": 25,
+    "Volume": 50,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7bfabb5b93eb7a287206e062ce829e29",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "advancedThermalProtectionMaterial",
+    "Ticker": "ATP",
+    "Weight": 2.9000000953674316,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "c03644ad9e74ee585b1148f608010003",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "basicHullPlate",
+    "Ticker": "BHP",
+    "Weight": 9,
+    "Volume": 10,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7e3db35fdccce745cede7b1b636f3cb1",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "habitationModule",
+    "Ticker": "HAM",
+    "Weight": 1200,
+    "Volume": 1200,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "bb576032a158719b514c2b3f3e87e30a",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "hardenedHullPlate",
+    "Ticker": "HHP",
+    "Weight": 10,
+    "Volume": 10,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "f3f12b5b3adebdd25f3067e5aa4589f0",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "lightweightHullPlate",
+    "Ticker": "LHP",
+    "Weight": 4,
+    "Volume": 10,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "e8e7a34cb5e2a62aaf8d83dc79d81ee5",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "navigation1",
+    "Ticker": "NV1",
+    "Weight": 4.199999809265137,
+    "Volume": 2,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "ccdecb3fc5eb9f0d04c67cc1c9fb47dd",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "navigation2",
+    "Ticker": "NV2",
+    "Weight": 6.699999809265137,
+    "Volume": 3,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "e59f70623448014f8fac5af9922de5c3",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "reinforcedHullPlate",
+    "Ticker": "RHP",
+    "Weight": 10,
+    "Volume": 10,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "683145c220ccb5ed327326d7c4e26c6d",
+    "CategoryName": "ship parts",
+    "CategoryId": "d23b9225010ad7978e5496e55359e19b",
+    "Name": "basicThermalProtectionMaterial",
+    "Ticker": "THP",
+    "Weight": 2.200000047683716,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "e0bc5afdf3ca754592f454fdbd813c74",
+    "CategoryName": "drones",
+    "CategoryId": "6eb09f14ed9fec3d0407114be8bc8882",
+    "Name": "crowdControlDrone",
+    "Ticker": "CCD",
     "Weight": 0.30000001192092896,
-    "Volume": 0.4000000059604645,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "4f44983ac27bcbac1f0fd4af7b5a2b7b",
-    "CategoryName": "ship kits",
-    "CategoryId": "b7102e43e58120a254cf161c226d4177",
-    "Name": "highVolumeCargoBay",
-    "Ticker": "VCB",
-    "Weight": 200,
-    "Volume": 200,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "6fb814bde2cab570e5d8717251b96c00",
-    "CategoryName": "ship kits",
-    "CategoryId": "b7102e43e58120a254cf161c226d4177",
-    "Name": "verySmallCargoBay",
-    "Ticker": "VSC",
-    "Weight": 35,
-    "Volume": 35,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "cc7eb7e114d1c7f0db547595d683850a",
-    "CategoryName": "ship kits",
-    "CategoryId": "b7102e43e58120a254cf161c226d4177",
-    "Name": "highLoadCargoBay",
-    "Ticker": "WCB",
-    "Weight": 200,
-    "Volume": 200,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "72b87b633c828f417737f5e2e473083d",
-    "CategoryName": "liquids",
-    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
-    "Name": "tungstenResource",
-    "Ticker": "BTS",
-    "Weight": 1.0499999523162842,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "ec8dbb1d3f51d89c61b6f58fdd64a7f0",
-    "CategoryName": "liquids",
-    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
-    "Name": "water",
-    "Ticker": "H2O",
-    "Weight": 0.20000000298023224,
-    "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "2adebc00bf7efaa693021426a68a3e65",
-    "CategoryName": "liquids",
-    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
-    "Name": "heliotropeExtract",
-    "Ticker": "HEX",
-    "Weight": 1.100000023841858,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "14d35a43454dd8e9797fc36f4ee59698",
-    "CategoryName": "liquids",
-    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
-    "Name": "liquidEinsteinium",
-    "Ticker": "LES",
-    "Weight": 8.84000015258789,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "26c05c3b63aa57025e68dd67d0001ba2",
-    "CategoryName": "utility",
-    "CategoryId": "4eb124000ee0e38af1daf5aced313823",
-    "Name": "officeSupplies",
-    "Ticker": "OFF",
-    "Weight": 0.019999999552965164,
-    "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "22b3e4f9114304fb15a093e2b8f22a91",
-    "CategoryName": "utility",
-    "CategoryId": "4eb124000ee0e38af1daf5aced313823",
-    "Name": "universalToolset",
-    "Ticker": "UTS",
-    "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "ab5016ca0c184474d80e00ee5f8a8b66",
+    "CategoryName": "drones",
+    "CategoryId": "6eb09f14ed9fec3d0407114be8bc8882",
+    "Name": "droneFrame",
+    "Ticker": "DRF",
+    "Weight": 0.10000000149011612,
+    "Volume": 0.019999999552965164,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "07ba4d80010a9d5c869aa6f05ea78208",
@@ -2339,8 +2229,8 @@
     "Ticker": "QCR",
     "Weight": 14,
     "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a381f9434f9105a4f8179f6c6cffe007",
@@ -2350,8 +2240,8 @@
     "Ticker": "MAI",
     "Weight": 1.2999999523162842,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "52cc5c8aeab6bb1778e7ce93a1bbdc80",
@@ -2361,8 +2251,8 @@
     "Ticker": "MTP",
     "Weight": 0.699999988079071,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "005252da5904d755c10d3abd4442bdeb",
@@ -2372,8 +2262,8 @@
     "Ticker": "MUS",
     "Weight": 0.800000011920929,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a531fd67223d12e94103dff359c50e0d",
@@ -2383,8 +2273,8 @@
     "Ticker": "ATA",
     "Weight": 0.30000001192092896,
     "Volume": 0.4000000059604645,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "63b98e9700f6630cbfd9c824e0882388",
@@ -2394,8 +2284,8 @@
     "Ticker": "BBH",
     "Weight": 0.5,
     "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "420b38d32301dfe56403d1f3967d5b86",
@@ -2405,8 +2295,8 @@
     "Ticker": "BDE",
     "Weight": 0.10000000149011612,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6bbdf7d0503153753c8cb23653a4d22b",
@@ -2416,74 +2306,118 @@
     "Ticker": "BSE",
     "Weight": 0.30000001192092896,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "ee8e92a632d1b5f4847fe9d4e376aeca",
-    "CategoryName": "plastics",
-    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
-    "Name": "polyEthylene",
-    "Ticker": "PE",
-    "Weight": 0.009999999776482582,
-    "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "64666b2eb0faaba594a62818e48229b8",
-    "CategoryName": "plastics",
-    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
-    "Name": "polymerGranulate",
-    "Ticker": "PG",
-    "Weight": 0.0020000000949949026,
-    "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "db4fbfd5c434a3952e7e1d37ae36158f",
-    "CategoryName": "plastics",
-    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
-    "Name": "largePlasticsBoard",
-    "Ticker": "PSL",
-    "Weight": 0.07999999821186066,
-    "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "d1da92df0f3cd523b647245fb79b5025",
-    "CategoryName": "plastics",
-    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
-    "Name": "mediumPlasticsBoard",
-    "Ticker": "PSM",
-    "Weight": 0.03999999910593033,
+    "MaterialId": "334f3510e3265410da15174160fbf8f5",
+    "CategoryName": "construction prefabs",
+    "CategoryId": "ef423f673d9e8c82043b4c5c63f6b55e",
+    "Name": "basicWindow",
+    "Ticker": "BTA",
+    "Weight": 0.30000001192092896,
     "Volume": 0.4000000059604645,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "7f1b9df7face3f9b3d99e34f9a51c6b2",
-    "CategoryName": "plastics",
-    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
-    "Name": "smallPlasticsBoard",
-    "Ticker": "PSS",
-    "Weight": 0.009999999776482582,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "4f44983ac27bcbac1f0fd4af7b5a2b7b",
+    "CategoryName": "ship kits",
+    "CategoryId": "b7102e43e58120a254cf161c226d4177",
+    "Name": "highVolumeCargoBay",
+    "Ticker": "VCB",
+    "Weight": 200,
+    "Volume": 200,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "5a41a18d80ddc6982b61f5d2df496358",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "cryogenicFluid",
-    "Ticker": "CST",
-    "Weight": 1.1399999856948853,
+    "MaterialId": "6fb814bde2cab570e5d8717251b96c00",
+    "CategoryName": "ship kits",
+    "CategoryId": "b7102e43e58120a254cf161c226d4177",
+    "Name": "verySmallCargoBay",
+    "Ticker": "VSC",
+    "Weight": 35,
+    "Volume": 35,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "cc7eb7e114d1c7f0db547595d683850a",
+    "CategoryName": "ship kits",
+    "CategoryId": "b7102e43e58120a254cf161c226d4177",
+    "Name": "highLoadCargoBay",
+    "Ticker": "WCB",
+    "Weight": 200,
+    "Volume": 200,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "72b87b633c828f417737f5e2e473083d",
+    "CategoryName": "liquids",
+    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
+    "Name": "tungstenResource",
+    "Ticker": "BTS",
+    "Weight": 1.0499999523162842,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "ec8dbb1d3f51d89c61b6f58fdd64a7f0",
+    "CategoryName": "liquids",
+    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
+    "Name": "water",
+    "Ticker": "H2O",
+    "Weight": 0.20000000298023224,
+    "Volume": 0.20000000298023224,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "2adebc00bf7efaa693021426a68a3e65",
+    "CategoryName": "liquids",
+    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
+    "Name": "heliotropeExtract",
+    "Ticker": "HEX",
+    "Weight": 1.100000023841858,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "14d35a43454dd8e9797fc36f4ee59698",
+    "CategoryName": "liquids",
+    "CategoryId": "473218d3618453bf25d2cd0b5616a72f",
+    "Name": "liquidEinsteinium",
+    "Ticker": "LES",
+    "Weight": 8.84000015258789,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "26c05c3b63aa57025e68dd67d0001ba2",
+    "CategoryName": "utility",
+    "CategoryId": "4eb124000ee0e38af1daf5aced313823",
+    "Name": "officeSupplies",
+    "Ticker": "OFF",
+    "Weight": 0.019999999552965164,
+    "Volume": 0.20000000298023224,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "22b3e4f9114304fb15a093e2b8f22a91",
+    "CategoryName": "utility",
+    "CategoryId": "4eb124000ee0e38af1daf5aced313823",
+    "Name": "universalToolset",
+    "Ticker": "UTS",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.05000000074505806,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c81dbc5e1758121fe9acb067d89b6a05",
@@ -2493,8 +2427,8 @@
     "Ticker": "VOR",
     "Weight": 35,
     "Volume": 30,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6da55ef2896023daf2a2f119895e2078",
@@ -2504,8 +2438,8 @@
     "Ticker": "DA",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c100446dafeb6899f37f97217e8409af",
@@ -2515,8 +2449,8 @@
     "Ticker": "DD",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "005936105ae3d0f6197349ad693e9240",
@@ -2526,8 +2460,8 @@
     "Ticker": "DV",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "47952dfcb98b6d573fd3e9461cfdddcf",
@@ -2537,8 +2471,8 @@
     "Ticker": "BMF",
     "Weight": 0.800000011920929,
     "Volume": 1.2000000476837158,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ee0e83e198391b1c9affe29ac07623b0",
@@ -2548,8 +2482,8 @@
     "Ticker": "COM",
     "Weight": 0.5,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3e9e003ed20e4a62eb811a8a50223a65",
@@ -2559,8 +2493,8 @@
     "Ticker": "CRU",
     "Weight": 2.200000047683716,
     "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "11cfa0cf3614e7a2405a31039c44632e",
@@ -2570,8 +2504,8 @@
     "Ticker": "FFC",
     "Weight": 50,
     "Volume": 16,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d4c590dd12f7fbd0f3533c27da6c9f19",
@@ -2581,8 +2515,8 @@
     "Ticker": "DCL",
     "Weight": 0.07999999821186066,
     "Volume": 0.800000011920929,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "36d0064e2b9415e1a1214aed16b17ed2",
@@ -2592,8 +2526,8 @@
     "Ticker": "DCM",
     "Weight": 0.03999999910593033,
     "Volume": 0.4000000059604645,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "52b88b137a9f71a66a0ff41aaa7075a5",
@@ -2603,173 +2537,74 @@
     "Ticker": "DCS",
     "Weight": 0.009999999776482582,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "96b43016ff0f9872d92a35196045c07d",
-    "CategoryName": "metals",
-    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
-    "Name": "wolfram",
-    "Ticker": "W",
-    "Weight": 7.519000053405762,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "ee8e92a632d1b5f4847fe9d4e376aeca",
+    "CategoryName": "plastics",
+    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
+    "Name": "polyEthylene",
+    "Ticker": "PE",
+    "Weight": 0.009999999776482582,
+    "Volume": 0.009999999776482582,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "a7a19eb0c3f253884c901bf1d05f2369",
-    "CategoryName": "electronic systems",
-    "CategoryId": "1e1a3a579c46d5f9c4e9959650c6b7a3",
-    "Name": "automatedCoolingSystem",
-    "Ticker": "ACS",
-    "Weight": 0.30000001192092896,
-    "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "MaterialId": "64666b2eb0faaba594a62818e48229b8",
+    "CategoryName": "plastics",
+    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
+    "Name": "polymerGranulate",
+    "Ticker": "PG",
+    "Weight": 0.0020000000949949026,
+    "Volume": 0.0010000000474974513,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "fe5be65546733ffa4f619bbc76ac532d",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "pesticides",
-    "Ticker": "DDT",
-    "Weight": 0.10999999940395355,
+    "MaterialId": "db4fbfd5c434a3952e7e1d37ae36158f",
+    "CategoryName": "plastics",
+    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
+    "Name": "largePlasticsBoard",
+    "Ticker": "PSL",
+    "Weight": 0.07999999821186066,
+    "Volume": 0.800000011920929,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "d1da92df0f3cd523b647245fb79b5025",
+    "CategoryName": "plastics",
+    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
+    "Name": "mediumPlasticsBoard",
+    "Ticker": "PSM",
+    "Weight": 0.03999999910593033,
+    "Volume": 0.4000000059604645,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "7f1b9df7face3f9b3d99e34f9a51c6b2",
+    "CategoryName": "plastics",
+    "CategoryId": "6316282906a9f68b0c7bb4396a26aa95",
+    "Name": "smallPlasticsBoard",
+    "Ticker": "PSS",
+    "Weight": 0.009999999776482582,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
-    "MaterialId": "082332472d3285c985367678a5716e71",
+    "MaterialId": "5a41a18d80ddc6982b61f5d2df496358",
     "CategoryName": "chemicals",
     "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "enrichedEinsteinium",
-    "Ticker": "EES",
-    "Weight": 9.199999809265137,
+    "Name": "cryogenicFluid",
+    "Ticker": "CST",
+    "Weight": 1.1399999856948853,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "a9d7758454f7a446565e3ce1cd49386a",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "enrichedTechnetium",
-    "Ticker": "ETC",
-    "Weight": 4.099999904632568,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "01dfc4e798680d1174fd785db6578627",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "indigo",
-    "Ticker": "IND",
-    "Weight": 0.20999999344348907,
-    "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "f8fdd918a757d6a9888f544e3375e585",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "sedativeSubstance",
-    "Ticker": "JUI",
-    "Weight": 1.2000000476837158,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "8d05c8c4bac264bc9c6310d656a8a9a2",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "kryptonium",
-    "Ticker": "KRE",
-    "Weight": 8.25,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "17a9e15840c1d90848c5e59949f7abc2",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "liquidCrystals",
-    "Ticker": "LCR",
-    "Weight": 0.15000000596046448,
-    "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "710cb599231cd6b974bcc5feea9603c7",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "sodiumBorohydride",
-    "Ticker": "NAB",
-    "Weight": 0.10000000149011612,
-    "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "17229492d319a4d6a5d0d45ee5bef188",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "nanoResin",
-    "Ticker": "NR",
-    "Weight": 0.05000000074505806,
-    "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "d9cfb2948188f49bfae2b6d9972837c8",
-    "CategoryName": "chemicals",
-    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
-    "Name": "nutrientSolution",
-    "Ticker": "NS",
-    "Weight": 0.6000000238418579,
-    "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "ccef250eff466c569c12c2b711a0d5c2",
-    "CategoryName": "agricultural products",
-    "CategoryId": "510e7751c0eb6a51fd0fa73565365d1c",
-    "Name": "grapes",
-    "Ticker": "GRA",
-    "Weight": 1.100000023841858,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "83d83e8cf6fb9018ae7138a1b5d4b19c",
-    "CategoryName": "agricultural products",
-    "CategoryId": "510e7751c0eb6a51fd0fa73565365d1c",
-    "Name": "carbohydrateGrains",
-    "Ticker": "GRN",
-    "Weight": 0.8999999761581421,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
-  },
-  {
-    "MaterialId": "c76b4100059661084315938999623c26",
-    "CategoryName": "agricultural products",
-    "CategoryId": "510e7751c0eb6a51fd0fa73565365d1c",
-    "Name": "hydrocarbonPlants",
-    "Ticker": "HCP",
-    "Weight": 0.800000011920929,
-    "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "115e4c08cdd519c175ca3d58af562c1e",
@@ -2779,8 +2614,8 @@
     "Ticker": "BGC",
     "Weight": 0.009999999776482582,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "eab56d3d6b0742ccbf19a7e955209b0e",
@@ -2790,8 +2625,8 @@
     "Ticker": "HCC",
     "Weight": 0.009999999776482582,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "291cd8f5c28b371afe0793f78f5499a8",
@@ -2801,8 +2636,8 @@
     "Ticker": "LDI",
     "Weight": 0.0010000000474974513,
     "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "432414a579f1fccd66136b257eb44408",
@@ -2812,8 +2647,8 @@
     "Ticker": "MFK",
     "Weight": 0.10000000149011612,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ef36cda3528c490360fa8d513a53e6c6",
@@ -2823,8 +2658,173 @@
     "Ticker": "MWF",
     "Weight": 0.00800000037997961,
     "Volume": 0.00800000037997961,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "96b43016ff0f9872d92a35196045c07d",
+    "CategoryName": "metals",
+    "CategoryId": "cae48680d4c4e6f98d593a8c3778cb56",
+    "Name": "wolfram",
+    "Ticker": "W",
+    "Weight": 7.519000053405762,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "a7a19eb0c3f253884c901bf1d05f2369",
+    "CategoryName": "electronic systems",
+    "CategoryId": "1e1a3a579c46d5f9c4e9959650c6b7a3",
+    "Name": "automatedCoolingSystem",
+    "Ticker": "ACS",
+    "Weight": 0.30000001192092896,
+    "Volume": 0.20000000298023224,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "fe5be65546733ffa4f619bbc76ac532d",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "pesticides",
+    "Ticker": "DDT",
+    "Weight": 0.10999999940395355,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "082332472d3285c985367678a5716e71",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "enrichedEinsteinium",
+    "Ticker": "EES",
+    "Weight": 9.199999809265137,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "a9d7758454f7a446565e3ce1cd49386a",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "enrichedTechnetium",
+    "Ticker": "ETC",
+    "Weight": 4.099999904632568,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "01dfc4e798680d1174fd785db6578627",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "indigo",
+    "Ticker": "IND",
+    "Weight": 0.20999999344348907,
+    "Volume": 0.20000000298023224,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "f8fdd918a757d6a9888f544e3375e585",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "sedativeSubstance",
+    "Ticker": "JUI",
+    "Weight": 1.2000000476837158,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "8d05c8c4bac264bc9c6310d656a8a9a2",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "kryptonium",
+    "Ticker": "KRE",
+    "Weight": 8.25,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "17a9e15840c1d90848c5e59949f7abc2",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "liquidCrystals",
+    "Ticker": "LCR",
+    "Weight": 0.15000000596046448,
+    "Volume": 0.10000000149011612,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "710cb599231cd6b974bcc5feea9603c7",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "sodiumBorohydride",
+    "Ticker": "NAB",
+    "Weight": 0.10000000149011612,
+    "Volume": 0.05000000074505806,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "17229492d319a4d6a5d0d45ee5bef188",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "nanoResin",
+    "Ticker": "NR",
+    "Weight": 0.05000000074505806,
+    "Volume": 0.05000000074505806,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "d9cfb2948188f49bfae2b6d9972837c8",
+    "CategoryName": "chemicals",
+    "CategoryId": "9b32ea2333917ee2632ba7ae7675643f",
+    "Name": "nutrientSolution",
+    "Ticker": "NS",
+    "Weight": 0.6000000238418579,
+    "Volume": 0.5,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "ccef250eff466c569c12c2b711a0d5c2",
+    "CategoryName": "agricultural products",
+    "CategoryId": "510e7751c0eb6a51fd0fa73565365d1c",
+    "Name": "grapes",
+    "Ticker": "GRA",
+    "Weight": 1.100000023841858,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "83d83e8cf6fb9018ae7138a1b5d4b19c",
+    "CategoryName": "agricultural products",
+    "CategoryId": "510e7751c0eb6a51fd0fa73565365d1c",
+    "Name": "carbohydrateGrains",
+    "Ticker": "GRN",
+    "Weight": 0.8999999761581421,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
+  },
+  {
+    "MaterialId": "c76b4100059661084315938999623c26",
+    "CategoryName": "agricultural products",
+    "CategoryId": "510e7751c0eb6a51fd0fa73565365d1c",
+    "Name": "hydrocarbonPlants",
+    "Ticker": "HCP",
+    "Weight": 0.800000011920929,
+    "Volume": 1,
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "f1d402957a88fd396f302372a6912158",
@@ -2834,8 +2834,8 @@
     "Ticker": "FLP",
     "Weight": 0.30000001192092896,
     "Volume": 2,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a3df77b3455fc17fa676d0131550152c",
@@ -2845,8 +2845,8 @@
     "Ticker": "PFG",
     "Weight": 80,
     "Volume": 65,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "10469071872e3221bb8ec42c79368f96",
@@ -2856,8 +2856,8 @@
     "Ticker": "FUN",
     "Weight": 5,
     "Volume": 4,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cbe44387c37259ac71716382c0016bbf",
@@ -2867,8 +2867,8 @@
     "Ticker": "HAB",
     "Weight": 10,
     "Volume": 8,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1b05fb8506fcd5be63a465171dd4c656",
@@ -2878,8 +2878,8 @@
     "Ticker": "LU",
     "Weight": 8,
     "Volume": 6,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ee320953d3d725c83bfbc594449979a2",
@@ -2889,8 +2889,8 @@
     "Ticker": "F",
     "Weight": 1.6959999799728394,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c04de28c3e717f236d6ed177b89d9523",
@@ -2900,8 +2900,8 @@
     "Ticker": "H",
     "Weight": 0.07000000029802322,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5d59ddddb1ce9a26eb81b78b8378b3ac",
@@ -2911,8 +2911,8 @@
     "Ticker": "N",
     "Weight": 0.8069999814033508,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "adca908f9dd26ff505d01bc5ffc0d2e1",
@@ -2922,8 +2922,8 @@
     "Ticker": "NE",
     "Weight": 0.8999999761581421,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6e16dbf050b98d9c4fc9c615b3367a0f",
@@ -2933,8 +2933,8 @@
     "Ticker": "O",
     "Weight": 1.1410000324249268,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1a1f13b7fc3e0fb6aa292b7c28764f93",
@@ -2944,8 +2944,8 @@
     "Ticker": "HER",
     "Weight": 0.4000000059604645,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d7a9a96a18f278aa7c3f9af30fc68d19",
@@ -2955,8 +2955,8 @@
     "Ticker": "HOP",
     "Weight": 0.3499999940395355,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d7ac798b0457e67da544fbccfa9367f6",
@@ -2966,8 +2966,8 @@
     "Ticker": "FET",
     "Weight": 6.849999904632568,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "26c6a0defb9109b7ac3fab559b9d4f65",
@@ -2977,8 +2977,8 @@
     "Ticker": "BND",
     "Weight": 0.0010000000474974513,
     "Volume": 0.004999999888241291,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4854eb1479ec6225b01d337a172d7b02",
@@ -2988,8 +2988,8 @@
     "Ticker": "PK",
     "Weight": 0.0010000000474974513,
     "Volume": 0.0010000000474974513,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4fca6f5b5e6c3b8a1b887c6dc99db146",
@@ -2999,8 +2999,8 @@
     "Ticker": "DW",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "87dd9b56a69e118e8c778de2dce11e8c",
@@ -3010,8 +3010,8 @@
     "Ticker": "EXO",
     "Weight": 0.10000000149011612,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "73e138a825968b0132230d02591af63f",
@@ -3021,8 +3021,8 @@
     "Ticker": "FIM",
     "Weight": 0.550000011920929,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5b0e02208dbbb99695707001d626963a",
@@ -3032,8 +3032,8 @@
     "Ticker": "HMS",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d767c625cdf6f6f97df9fe8e49766912",
@@ -3043,8 +3043,8 @@
     "Ticker": "PFE",
     "Weight": 0.8999999761581421,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d4b42f6606b6f9d7ca1aea9295154288",
@@ -3054,8 +3054,8 @@
     "Ticker": "CA",
     "Weight": 1.5399999618530273,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "19be1b1e67efe63de8127d057508fe0c",
@@ -3065,8 +3065,8 @@
     "Ticker": "CL",
     "Weight": 3.200000047683716,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a528afba5c7d4bf1fd2f2c69fc7f247f",
@@ -3076,8 +3076,8 @@
     "Ticker": "ES",
     "Weight": 0.8799999952316284,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "18237d01e53d08212ee0b67dc1ad3df1",
@@ -3087,8 +3087,8 @@
     "Ticker": "I",
     "Weight": 4.929999828338623,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "833efac228452f5d770c0693c3fb3d50",
@@ -3098,8 +3098,8 @@
     "Ticker": "MG",
     "Weight": 0.27000001072883606,
     "Volume": 0.1599999964237213,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "11ec662cd8ba85e87b111a7ba7aa4973",
@@ -3109,8 +3109,8 @@
     "Ticker": "NA",
     "Weight": 0.9700000286102295,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9375c2dbd1de92b8ec107677bfeda193",
@@ -3120,8 +3120,8 @@
     "Ticker": "BGS",
     "Weight": 20,
     "Volume": 3,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4094d1cf6704085fbe6ff7a6e1862e4a",
@@ -3131,8 +3131,8 @@
     "Ticker": "SEQ",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3ca4ad9d9fa814530aa9ba66b74c1d06",
@@ -3142,8 +3142,8 @@
     "Ticker": "STR",
     "Weight": 0.009999999776482582,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9a1ae6a2b5bd58d6ea3ec91c9499cfc4",
@@ -3153,8 +3153,8 @@
     "Ticker": "TUB",
     "Weight": 0.0020000000949949026,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cb9bcbcc36de690abcafb9d5cc944cd4",
@@ -3164,8 +3164,8 @@
     "Ticker": "CD",
     "Weight": 0.004000000189989805,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "71437224d7590e8ff92265a56cb70dee",
@@ -3175,8 +3175,8 @@
     "Ticker": "DIS",
     "Weight": 0.019999999552965164,
     "Volume": 0.019999999552965164,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "09a313c77887ec04c209c0153f7dee75",
@@ -3186,8 +3186,8 @@
     "Ticker": "FAN",
     "Weight": 0.10000000149011612,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0253e010aee37786b8e0b7220db60527",
@@ -3197,8 +3197,8 @@
     "Ticker": "WRH",
     "Weight": 6.920000076293945,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "60323fea22b8182e1a5fd8191ba542ef",
@@ -3208,8 +3208,8 @@
     "Ticker": "SDM",
     "Weight": 500,
     "Volume": 500,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6a04f7cdbb83b9f6253b01ebb08f2e0e",
@@ -3219,8 +3219,8 @@
     "Ticker": "EBU",
     "Weight": 51,
     "Volume": 46,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b88aaf3dba6caa7e6d437e49e7620f0b",
@@ -3230,8 +3230,8 @@
     "Ticker": "INS",
     "Weight": 0.05999999865889549,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cc5fb1618f0506e80bfbcee9ae2605ab",
@@ -3241,8 +3241,8 @@
     "Ticker": "MCG",
     "Weight": 0.23999999463558197,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "346d2efba85c3e9c1f874fa6845e8c23",
@@ -3252,8 +3252,8 @@
     "Ticker": "TAC",
     "Weight": 0.15000000596046448,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1e7c5ae5b1518398b98e2ffdb28c0934",
@@ -3263,8 +3263,8 @@
     "Ticker": "WR",
     "Weight": 6.400000095367432,
     "Volume": 5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "7aeed35adeb209ebdb4985f451ed3e46",
@@ -3274,8 +3274,8 @@
     "Ticker": "COT",
     "Weight": 0.7699999809265137,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5b959b6c0c20016402811352969960c0",
@@ -3285,8 +3285,8 @@
     "Ticker": "CTF",
     "Weight": 4.320000171661377,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "76e7790d43219588122f401f2b9f0534",
@@ -3296,8 +3296,8 @@
     "Ticker": "KV",
     "Weight": 1.649999976158142,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "12fb94d0184c18455533bffb4b8b7e51",
@@ -3307,8 +3307,8 @@
     "Ticker": "NL",
     "Weight": 1.1299999952316284,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "8302200bd88502383e932ae257bcb9b4",
@@ -3318,8 +3318,8 @@
     "Ticker": "SIL",
     "Weight": 1.2100000381469727,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "8faa9fb6d21ebd5731043b0c122bc5b6",
@@ -3329,8 +3329,8 @@
     "Ticker": "NG",
     "Weight": 0.02199999988079071,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "11205b2106f47b28c189a82494733841",
@@ -3340,8 +3340,8 @@
     "Ticker": "RG",
     "Weight": 0.03200000151991844,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "04970fd8cd9c3bc423b46503985e55de",
@@ -3351,8 +3351,8 @@
     "Ticker": "SEA",
     "Weight": 0.15000000596046448,
     "Volume": 0.07000000029802322,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "379f7bc12b6d2800c0a9f72c4943628b",
@@ -3362,8 +3362,8 @@
     "Ticker": "HSS",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d6c283d4480cacbca31bec0bbb55b940",
@@ -3373,8 +3373,8 @@
     "Ticker": "LC",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a5de3e325e87c874fe395949728bb276",
@@ -3384,8 +3384,8 @@
     "Ticker": "MEA",
     "Weight": 0.6000000238418579,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5d36829593b5fd61674320cd66e4bb5c",
@@ -3395,8 +3395,8 @@
     "Ticker": "MED",
     "Weight": 0.30000001192092896,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9788890100fd2191fb065cb0d5e624cb",
@@ -3406,8 +3406,8 @@
     "Ticker": "OVE",
     "Weight": 0.019999999552965164,
     "Volume": 0.02500000037252903,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1d2a14dda2d950fe0dfa51cb76e79e54",
@@ -3417,8 +3417,8 @@
     "Ticker": "PDA",
     "Weight": 0.0020000000949949026,
     "Volume": 0.0020000000949949026,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "460c114b10d44a8ac99f7a0a47910f42",
@@ -3428,8 +3428,8 @@
     "Ticker": "SAL",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "a64beff205f211baec5a6d782cd6ec87",
@@ -3439,8 +3439,8 @@
     "Ticker": "WM",
     "Weight": 0.0010000000474974513,
     "Volume": 0.009999999776482582,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "04f72b0c957b769c6d45c011e9c9b4b5",
@@ -3450,8 +3450,8 @@
     "Ticker": "ALO",
     "Weight": 1.350000023841858,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3efc94d2a18702eee04ba2850bdb9bef",
@@ -3461,8 +3461,8 @@
     "Ticker": "AUO",
     "Weight": 3.859999895095825,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4fce81e03539c346cc5c493c197eac69",
@@ -3472,8 +3472,8 @@
     "Ticker": "MFL",
     "Weight": 24,
     "Volume": 4,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "11fa820041249299d95d85191dc378fc",
@@ -3483,8 +3483,8 @@
     "Ticker": "MSL",
     "Weight": 50,
     "Volume": 50,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c006dedb53cf3bb8cb964c8151d9a744",
@@ -3494,8 +3494,8 @@
     "Ticker": "SCB",
     "Weight": 50,
     "Volume": 50,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e8b8b2f9a1e27ff69fe0c15b25a1d424",
@@ -3505,8 +3505,8 @@
     "Ticker": "SFL",
     "Weight": 9,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "251192d17a5b0e770cd3681383a495fd",
@@ -3516,8 +3516,8 @@
     "Ticker": "SSL",
     "Weight": 20,
     "Volume": 20,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "3aa3bc318e699090ecfbe327f044a219",
@@ -3527,8 +3527,8 @@
     "Ticker": "TCB",
     "Weight": 20,
     "Volume": 20,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "aaa4b2b80deb387726d8845630874446",
@@ -3538,8 +3538,8 @@
     "Ticker": "VFT",
     "Weight": 1000,
     "Volume": 1000,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "dd806abbca77956b09bc043c1633f51e",
@@ -3549,8 +3549,8 @@
     "Ticker": "REA",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "93fb7db0a58375534661afd0dc88f4ad",
@@ -3560,8 +3560,8 @@
     "Ticker": "SOI",
     "Weight": 0.8999999761581421,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "97ba20adb4d05fdcf365048b6878eaa7",
@@ -3571,8 +3571,8 @@
     "Ticker": "TCL",
     "Weight": 0.09000000357627869,
     "Volume": 0.10000000149011612,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "580c70e310bcd1543a46116d6be612e5",
@@ -3582,8 +3582,8 @@
     "Ticker": "THF",
     "Weight": 0.6000000238418579,
     "Volume": 0.3499999940395355,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "d3c0b6280da00e2ab4ee1ea6046cb488",
@@ -3593,8 +3593,8 @@
     "Ticker": "BE",
     "Weight": 1.840000033378601,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4bbcc7dc5dd16e9af90528ed04d9c6ba",
@@ -3604,8 +3604,8 @@
     "Ticker": "C",
     "Weight": 2.25,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b25e1857f8234dc9779d83d7abea3d77",
@@ -3615,8 +3615,8 @@
     "Ticker": "CUO",
     "Weight": 4.010000228881836,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b9640b0d66e7d0ca7e4d3132711c97fc",
@@ -3626,8 +3626,8 @@
     "Ticker": "FEO",
     "Weight": 5.900000095367432,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6dd01a9f12e493d44bbb8ce578f7a2d2",
@@ -3637,8 +3637,8 @@
     "Ticker": "LIO",
     "Weight": 2.75,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "eeff5ee913d34354be84177847fbfe48",
@@ -3648,8 +3648,8 @@
     "Ticker": "SIO",
     "Weight": 1.7899999618530273,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "4e66cc6157f132ba934a79ae38776521",
@@ -3659,8 +3659,8 @@
     "Ticker": "TIO",
     "Weight": 1.5800000429153442,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e73f2311d23a1dc4e096d2cf389e5ee2",
@@ -3670,8 +3670,8 @@
     "Ticker": "ARP",
     "Weight": 0.03999999910593033,
     "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "8284845e663b10975f8eec5f4426ec29",
@@ -3681,8 +3681,8 @@
     "Ticker": "AWH",
     "Weight": 0.11999999731779099,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5dee73eea0e8e99a6564a011ddc80880",
@@ -3692,8 +3692,8 @@
     "Ticker": "BPT",
     "Weight": 0.019999999552965164,
     "Volume": 0.30000001192092896,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6070c50f7e58a7db432416085531a01b",
@@ -3703,8 +3703,8 @@
     "Ticker": "BRP",
     "Weight": 0.029999999329447746,
     "Volume": 0.20000000298023224,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "fc9e1183c47d97315434a8b2c768d35c",
@@ -3714,8 +3714,8 @@
     "Ticker": "BER",
     "Weight": 1.9199999570846558,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "6daa4e4e074e1af8fb74458fe2196124",
@@ -3725,8 +3725,8 @@
     "Ticker": "BAC",
     "Weight": 0.15000000596046448,
     "Volume": 0.15000000596046448,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "aa4fb3a0d1c1cf17199f436b12c59b69",
@@ -3736,8 +3736,8 @@
     "Ticker": "BL",
     "Weight": 1.1200000047683716,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5745aed2f78b303ee96528213f99ec9f",
@@ -3747,8 +3747,8 @@
     "Ticker": "BLE",
     "Weight": 0.5,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b700f9670131981590e77238d7c207d3",
@@ -3758,8 +3758,8 @@
     "Ticker": "SSC",
     "Weight": 1,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "751120b64901019887c843e4125cd571",
@@ -3769,8 +3769,8 @@
     "Ticker": "DCH",
     "Weight": 0.20000000298023224,
     "Volume": 0.029999999329447746,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0700a1ac4bfbbb10fbe08f9a3c08bc13",
@@ -3780,8 +3780,8 @@
     "Ticker": "RED",
     "Weight": 0.30000001192092896,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "663f2e01b48535883100f1e16fc75f45",
@@ -3791,8 +3791,8 @@
     "Ticker": "SDR",
     "Weight": 0.30000001192092896,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9c418f805a867af115600ac3657cce0d",
@@ -3802,8 +3802,8 @@
     "Ticker": "SRD",
     "Weight": 0.30000001192092896,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "08f48a785d3012a7fcfa7e0c3e2c571c",
@@ -3813,8 +3813,8 @@
     "Ticker": "SUD",
     "Weight": 0.30000001192092896,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ec6fe0efa83e52fd59f248a069aee9bb",
@@ -3824,8 +3824,8 @@
     "Ticker": "ALG",
     "Weight": 0.699999988079071,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e97e2535fec019710299709a7462c066",
@@ -3835,8 +3835,8 @@
     "Ticker": "BEA",
     "Weight": 0.800000011920929,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "363f35e6ebb48062872112416e49424c",
@@ -3846,8 +3846,8 @@
     "Ticker": "CAF",
     "Weight": 0.8600000143051147,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c54c5f96af3bec918be316b4469307cb",
@@ -3857,8 +3857,8 @@
     "Ticker": "FOD",
     "Weight": 1.2000000476837158,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "98750f7d48ab2115293c8a8334b0120e",
@@ -3868,8 +3868,8 @@
     "Ticker": "LFL",
     "Weight": 60,
     "Volume": 10,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "684d77b82143e23d746461d1a55a6711",
@@ -3879,8 +3879,8 @@
     "Ticker": "LSL",
     "Weight": 125,
     "Volume": 100,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ca35c8015a968c985e6a2a8fbb6b7664",
@@ -3890,8 +3890,8 @@
     "Ticker": "MCB",
     "Weight": 100,
     "Volume": 100,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "e8308b1283cb813e2962d64fdb42ec33",
@@ -3901,8 +3901,8 @@
     "Ticker": "SUN",
     "Weight": 0.05000000074505806,
     "Volume": 0.05000000074505806,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "ed72545a5db1f16430d79a240dc61e6c",
@@ -3912,8 +3912,8 @@
     "Ticker": "AL",
     "Weight": 2.700000047683716,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "87488698340ed6d9db87e26e35360c20",
@@ -3923,8 +3923,8 @@
     "Ticker": "NUT",
     "Weight": 0.8999999761581421,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "746983ed94132dfa021aac40b67754b2",
@@ -3934,8 +3934,8 @@
     "Ticker": "PIB",
     "Weight": 0.30000001192092896,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "5f2011b6c605256dfa4626776cc7cf3c",
@@ -3945,8 +3945,8 @@
     "Ticker": "PPA",
     "Weight": 2,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "1205efe7810a94592524a53e87c3299b",
@@ -3956,8 +3956,8 @@
     "Ticker": "RCO",
     "Weight": 0.949999988079071,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "81dabbc84c110d1214ac8e090592ad31",
@@ -3967,8 +3967,8 @@
     "Ticker": "RSI",
     "Weight": 1.100000023841858,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "cc2dcb3699225b81cf63bf3e044a4f05",
@@ -3978,8 +3978,8 @@
     "Ticker": "VEG",
     "Weight": 1.100000023841858,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "44424f913bab7837217786c8543bf44e",
@@ -3989,8 +3989,8 @@
     "Ticker": "VIT",
     "Weight": 0.8999999761581421,
     "Volume": 1,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "274e35935b4ba9f4032f657b0ab6e0e5",
@@ -4000,8 +4000,8 @@
     "Ticker": "ABH",
     "Weight": 0.6000000238418579,
     "Volume": 0.8999999761581421,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "bf1f62e450627f2db02884657c399284",
@@ -4011,8 +4011,8 @@
     "Ticker": "ADE",
     "Weight": 0.4000000059604645,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "c83a4fc74233f9ffac3f5b7b7b83dce5",
@@ -4022,8 +4022,8 @@
     "Ticker": "ASE",
     "Weight": 0.5,
     "Volume": 0.6000000238418579,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "b29a0e901300857a8672f0643f7d796a",
@@ -4033,8 +4033,8 @@
     "Ticker": "LTA",
     "Weight": 0.30000001192092896,
     "Volume": 0.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "9930460f6d54364954dcf0af905029c5",
@@ -4044,8 +4044,8 @@
     "Ticker": "RBH",
     "Weight": 2.4000000953674316,
     "Volume": 0.8999999761581421,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "165dab5e1f913b2a4769f57f64c2505e",
@@ -4055,8 +4055,8 @@
     "Ticker": "RDE",
     "Weight": 1.399999976158142,
     "Volume": 1.5,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   },
   {
     "MaterialId": "0fd977ac87d641a5bfcadea33e24641c",
@@ -4066,7 +4066,7 @@
     "Ticker": "RSE",
     "Weight": 1.899999976158142,
     "Volume": 0.699999988079071,
-    "UserNameSubmitted": "TAIYI",
-    "Timestamp": "2026-03-26T18:26:33.175097Z"
+    "UserNameSubmitted": "PIBOY314",
+    "Timestamp": "2026-03-27T03:14:35.009471Z"
   }
 ]

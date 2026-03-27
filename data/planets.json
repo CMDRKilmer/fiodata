@@ -3020,12 +3020,12 @@
     "PlanetName": "HM-223a"
   },
   {
-    "PlanetNaturalId": "FK-794e",
-    "PlanetName": "FK-794e"
-  },
-  {
     "PlanetNaturalId": "VV-980c",
     "PlanetName": "VV-980c"
+  },
+  {
+    "PlanetNaturalId": "FK-794e",
+    "PlanetName": "FK-794e"
   },
   {
     "PlanetNaturalId": "JS-829g",
@@ -4076,10 +4076,6 @@
     "PlanetName": "Epicier"
   },
   {
-    "PlanetNaturalId": "XH-594e",
-    "PlanetName": "XH-594e"
-  },
-  {
     "PlanetNaturalId": "XV-158b",
     "PlanetName": "XV-158b"
   },
@@ -4934,6 +4930,10 @@
   {
     "PlanetNaturalId": "HM-301f",
     "PlanetName": "HM-301f"
+  },
+  {
+    "PlanetNaturalId": "XH-594e",
+    "PlanetName": "XH-594e"
   },
   {
     "PlanetNaturalId": "YA-424c",
@@ -6004,10 +6004,6 @@
     "PlanetName": "SO-838j"
   },
   {
-    "PlanetNaturalId": "GY-110c",
-    "PlanetName": "Chu"
-  },
-  {
     "PlanetNaturalId": "GY-252g",
     "PlanetName": "GY-252g"
   },
@@ -6018,6 +6014,10 @@
   {
     "PlanetNaturalId": "AJ-505d",
     "PlanetName": "AJ-505d"
+  },
+  {
+    "PlanetNaturalId": "GY-110c",
+    "PlanetName": "Chu"
   },
   {
     "PlanetNaturalId": "AJ-120d",

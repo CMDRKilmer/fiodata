@@ -1,6 +1,7 @@
 const { FioApiClient, PUBLIC_ENDPOINTS, CSV_ENDPOINTS } = require('./modules/apiClient');
 const { DataValidator } = require('./modules/validator');
 const { DataStorage } = require('./modules/storage');
+const { analyzeOwnership } = require('./analyzeOwnership');
 const logger = require('./modules/logger');
 
 const GITHUB_ACTIONS = process.env.GITHUB_ACTIONS === 'true';
@@ -135,6 +136,9 @@ class FioDataFetcher {
 
       const publicResults = await this.fetchAllPublicData();
       const csvResults = await this.fetchAllCsvData();
+
+      logger.info('Running ownership analysis...');
+      analyzeOwnership();
 
       this.stats.endTime = new Date().toISOString();
 
