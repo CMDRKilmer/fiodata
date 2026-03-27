@@ -188,12 +188,6 @@ if (require.main === module) {
         stats.csvEndpoints.failed.forEach(f => console.log(`  - ${f.name}: ${f.error}`));
       }
 
-      if (GITHUB_ACTIONS) {
-        console.log(`::set-output name=total_fetched::${stats.totalFetched}`);
-        console.log(`::set-output name=total_saved::${stats.totalSaved}`);
-        console.log(`::set-output name=total_failed::${stats.totalFailed}`);
-      }
-
       process.exit(stats.totalFailed > 0 ? 1 : 0);
     })
     .catch(error => {
