@@ -15,7 +15,13 @@ class DataStorage {
   }
 
   saveDataset(name, data, format = 'json') {
-    const filePath = path.join(this.dataDir, `${name}.${format}`);
+    let fileName = name;
+    if (name.endsWith(`.${format}`)) {
+      fileName = name;
+    } else {
+      fileName = `${name}.${format}`;
+    }
+    const filePath = path.join(this.dataDir, fileName);
     const tempPath = path.join(this.dataDir, `${name}.${format}.tmp`);
 
     try {
@@ -40,7 +46,11 @@ class DataStorage {
   }
 
   loadDataset(name, format = 'json') {
-    const filePath = path.join(this.dataDir, `${name}.${format}`);
+    let fileName = name;
+    if (!name.endsWith(`.${format}`)) {
+      fileName = `${name}.${format}`;
+    }
+    const filePath = path.join(this.dataDir, fileName);
 
     try {
       if (!fs.existsSync(filePath)) {
